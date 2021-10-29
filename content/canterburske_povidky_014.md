@@ -1,5 +1,6 @@
 ---
 title: Povídka o Melibeovi
+subtitle: ''
 ---
 
 Chaucer se nabídl hostinskému, že místo pohaněné rýmovačky bude vyprávět mravoučný příběh v próze, a začal.

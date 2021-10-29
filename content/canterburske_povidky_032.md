@@ -1,10 +1,9 @@
 ---
 title: Vysvětlivky
+subtitle: Prolog
 ---
 
 Vysvětlivky jsou uspořádány jednak podle stránek textu po jednotlivých povídkách, jednak abecedně v rejstříku. Podle stránek jsou seřazeny poznámky vztahující se zejména k určitému místu textu překladu, v abecedním rejstříku jsou zachyceny jména a pojmy, které se častěji opakují, nebo ty, které nejsou nezbytně spojeny s formulací celého verše či veršové pasáže.[\[21\]](../Text/canterburske_povidky_034.html#_ftn21)
-
-### Prolog
 
 Slunce na dráze Skopcem dorazilo k půlce – slunce prošlo polovinou své zdánlivé dráhy znamením Skopce, jímž prochází mezi březnem a dubnem. Viz v rejstříku Zvěrokruh. Chaucerova záliba v astronomii se projevila i jinak než četnými narážkami v jeho básnických dílech – r. 1391 složil pro svého synka celé pojednání o hvězdářském přístroji astrolabiu.
 

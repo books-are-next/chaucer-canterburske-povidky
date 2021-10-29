@@ -1,5 +1,6 @@
 ---
 title: Abecední rejstřík
+subtitle: ''
 ---
 
 Kurzivou tištěná slova v textu jednotlivých hesel jsou sama hesly v rejstříku.

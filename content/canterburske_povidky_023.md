@@ -1,5 +1,6 @@
 ---
 title: Povídka kupcova
+subtitle: ''
 ---
 
 obsahuje v originále 1226 sdruženě rýmovaných veršů.

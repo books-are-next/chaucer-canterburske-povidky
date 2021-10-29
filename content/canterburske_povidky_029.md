@@ -1,5 +1,6 @@
 ---
 title: Povídka venkovského faráře
+subtitle: ''
 ---
 
 V úvodu o 74 sdruženě rýmovaných verších vyzval hostinský faráře, aby dal k lepšímu své vyprávění. Farář odpověděl, že nebude vyprávět ani pošetilosti, ani neumí veršovat; chce-li však společnost vyslechnout neumělý mravoučný příběh v próze, že je ochoten začít. Všichni souhlasili, neboť se jim zdálo vhodné uzavřít pouť tímto způsobem. Tak hostinský udělil faráři slovo, když mu byl šeptem doporučil, aby hleděl být stručný.

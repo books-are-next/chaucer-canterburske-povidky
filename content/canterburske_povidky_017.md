@@ -1,5 +1,6 @@
 ---
 title: Povídka doktora medicíny
+subtitle: ''
 ---
 
 má 286 sdruženě rýmovaných veršů, v jakých je psána většina ostatních historek.
