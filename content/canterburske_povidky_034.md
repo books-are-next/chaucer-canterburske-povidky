@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+subtitle: ''
 ---
 
 [\[1\]](../Text/canterburske_povidky_005.html#_ftnref1) Láska vítězí nade vším. Pozn. překl.

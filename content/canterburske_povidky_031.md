@@ -1,5 +1,6 @@
 ---
 title: Poznámka překladatele
+subtitle: ''
 ---
 
 Dnešním výborem z Chaucerových „Canterburských povídek“ se dostává českému čtenáři do rukou překlad, z něhož si může udělat představu o celku díla, vytvořeného básníkem v devíti fragmentech původně plánovaného cyklu. Na osmdesát rukopisů, lišících se vzájemně pořadím fragmentů, výpustkami, dodatky i omyly opisovačů, bylo podkladem pro pozdější kritická vydání, z nichž první pořídil v 18. století Angličan Tyrwhitt. Po něm byly „Canterburské povídky“ vydány mnohokrát jak v původním textu, tak v převodech ze středověké angličtiny do současného jazyka. Byly překládány do mnoha řečí, ať už v plném znění, či ve výborech.

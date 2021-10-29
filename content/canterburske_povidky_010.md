@@ -1,5 +1,6 @@
 ---
 title: Povídka juristova
+subtitle: ''
 ---
 
 má i s úvodem 1160 veršů v sedmiřádkových stancích téhož typu jako v našem výboru zahrnutá povídka studentova. V úvodním dialogu mezi hostinským a juristou se objevuje zmínka o některých starších dílech Chaucerových.

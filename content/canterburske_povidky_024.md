@@ -1,5 +1,6 @@
 ---
 title: Povídka panošova
+subtitle: ''
 ---
 
 zůstala po 670 sdruženě rýmovaných verších nedokončena.

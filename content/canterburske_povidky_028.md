@@ -1,5 +1,6 @@
 ---
 title: Povídka kolejního správce
+subtitle: ''
 ---
 
 má 362 sdruženě rýmovaných veršů. Řada přišla na kuchaře, on však zůstával vzadu, všecek ospalý, neboť si minulý večer řádně přihnul. Kolejní správce se proto nabídl, že bude vyprávět místo něho, a jaksepatří opilému kuchaři vyčinil.

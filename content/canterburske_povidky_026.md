@@ -1,5 +1,6 @@
 ---
 title: Povídka jeptiščina
+subtitle: ''
 ---
 
 má 553 veršů v sedmiřádkových stancích téhož typu jako studentova povídka o Griseldě. Po úvodu, který varuje před hříchem zahálky, po zbožné prosbě k Panně Marii, aby pomohla při skládání legendy, a po filologickém výkladu o původu jména Cecílie následuje vlastní příběh.

@@ -1,5 +1,6 @@
 ---
 title: Povídka kuchařova
+subtitle: ''
 ---
 
 která následuje v originále, zůstala nedokončená po 98 sdruženě rýmovaných verších, zahrnujících i úvod k vlastnímu vyprávění.
