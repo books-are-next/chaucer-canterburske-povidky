@@ -5,6 +5,8 @@ subtitle: ''
 
 má 362 sdruženě rýmovaných veršů. Řada přišla na kuchaře, on však zůstával vzadu, všecek ospalý, neboť si minulý večer řádně přihnul. Kolejní správce se proto nabídl, že bude vyprávět místo něho, a jaksepatří opilému kuchaři vyčinil.
 
+  
+
 Kuchař se chtěl na něho vrhnout, v rozmachu však spadl z koně a všichni měli co dělat, aby jej opět zdvihli do sedla. Hostinský viděl, že s opilcem nic nebude, a udělil slovo správci; upozornil jej však, že nebylo prozíravé kuchaře dráždit; vždyť by mohl na správce vyzvonit nesrovnalosti v jeho účtech. Správce se polekal, a než začal svou povídku, dal kuchaři na usmířenou doušek dobrého vína ze své cestovní láhve.
 
 Když kdysi žil sluneční bůh Phoebus na zemi, byl to švarný mladý rytíř, který miloval chrabré kousky a zpěv a hudbu. Jako odznak své statečnosti nosil stále s sebou zlatý luk.

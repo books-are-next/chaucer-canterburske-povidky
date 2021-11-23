@@ -114,7 +114,7 @@ subtitle: I
 > „Ó, proč jen, Panno Marie,  
 > tak do srdce se zaryje  
 >              cit, jenž mě umučí?  
-> Dnes v noci snil jsem, pardieu[\[8\]](../Text/canterburske_povidky_034.html#_ftn8),  
+> Dnes v noci snil jsem, _pardieu_[\[8\]](../Text/canterburske_povidky_034.html#_ftn8),  
 > královna víl že se mnou je  
 >              a spí mi v náručí.
 

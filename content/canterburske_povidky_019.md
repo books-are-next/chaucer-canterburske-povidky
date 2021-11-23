@@ -200,7 +200,7 @@ subtitle: ''
 > Kdo k zkušenosti druhých nemá úcty,  
 > sám musí jiným sloužit k odstrašení;  
 > toť z Ptolemaia, ode mne to není,  
-> lze v Almagestu najít tento citát.“
+> lze v _Almagestu_ najít tento citát.“
 
 > „To, paní, věru, mohu jenom vítat,“  
 > děl odpustkář, „dál rozviňte svou vědu,  
@@ -357,7 +357,7 @@ subtitle: ''
 
 > Nad všechny lidi ať je požehnán  
 > astrolog moudrý, Ptolemaios, pán,  
-> jenž tohle říká ve svém Almagestu:  
+> jenž tohle říká ve svém _Almagestu_:  
 > Ten muž si zvolil nejmoudřejší cestu,  
 > který nic nedbá, kdo je pánem světa.  
 > Tenhleten smysl má ta jeho věta:  
@@ -658,7 +658,7 @@ subtitle: ''
 > Přisámbůh, švandu mívala jsem ráda,  
 > byla jsem pěkná, bohatá a mladá;  
 > a všichni muži říkali, že mám  
-> jak z hedvábí tu svoji quoniam.  
+> jak z hedvábí tu svoji _quoniam_.  
 > Jak v mozku Martem, v srdci zase vše  
 > mám prostoupeno dechem Venuše.  
 > Od Venuše mám rozkoš, mlsné chuti,  
@@ -726,7 +726,7 @@ subtitle: ''
 
 > Měl jednu knihu, kterou mermomocí  
 > čet pro zábavu skoro dnem i nocí,  
-> již Valerius zval a Theophrast,  
+> již _Valerius_ zval a _Theophrast_,  
 > a při četbě se musel smíchy třást.  
 > Učenec jeden obýval kdys Řím,  
 > kardinál byl to, svatý Jeroným,  
@@ -734,8 +734,8 @@ subtitle: ''
 > tu měl; a rovněž Tertulliána  
 > a Heloïsu, onu abatyši;  
 > a to, co Trotula a Chrysipp píší,  
-> a Přísloví měl Šalamouna krále,  
-> Ars Ovidia, mnoho jiných dále;  
+> a _Přísloví_ měl Šalamouna krále,  
+> _Ars_ Ovidia, mnoho jiných dále;  
 > v jediný svazek svázány tam byly.  
 > A dnem i nocí, když měl volnou chvíli  
 > po ostatní své každodenní práci,  

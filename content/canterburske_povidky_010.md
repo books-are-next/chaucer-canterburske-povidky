@@ -5,6 +5,8 @@ subtitle: ''
 
 má i s úvodem 1160 veršů v sedmiřádkových stancích téhož typu jako v našem výboru zahrnutá povídka studentova. V úvodním dialogu mezi hostinským a juristou se objevuje zmínka o některých starších dílech Chaucerových.
 
+  
+
 Jurista pak začal líčit osudy krásné a ctnostné křesťanky Konstance, dcery císaře římského. Kupci ze Sýrie, kteří ji v Římě poznali, vyprávěli o ní svému sultánu. Ten po ní zatoužil a přijal i se svým dvorem křesťanství, aby se s ní mohl oženit. Jeho matka však pomstila potupu mohamedánské víry a po příjezdu nevěsty do Sýrie dala pobít její průvod i všechny syrské pokřestěnce, včetně svého syna.
 
 Konstance byla vsazena do člunu bez vesel a vydána na pospas mořským vlnám. Bloudila po moři několik let, pro svou ctnost udržována na živu boží milostí. Konečně byla vyvržena na břeh v Northumberlandu v severní Anglii, v pohanské zemi, kde byli křesťané pronásledováni.

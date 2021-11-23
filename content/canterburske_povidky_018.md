@@ -8,7 +8,7 @@ subtitle: ''
 > i hlaholím a jako zvon chci znět  
 > a to, co kážu, znám už nazpaměť.  
 > Mám jedno téma, vždycky zas a zas:  
-> Radix malorum est cupiditas[\[11\]](../Text/canterburske_povidky_034.html#_ftn11).
+> _Radix malorum est cupiditas_[\[11\]](../Text/canterburske_povidky_034.html#_ftn11).
 
 > Nejprve řeknu, odkud právě jdu,  
 > pak veškeré své buly předvedu,  
@@ -105,7 +105,7 @@ subtitle: ''
 > A abych ráz těm kázáním svým vtisk,  
 > námětem jejich bývá hříšný zisk,  
 > a téma mé je proto zas a zas:  
-> Radix malorum est cupiditas.
+> _Radix malorum est cupiditas_.
 
 > A tutéž neřest kázání má tepou —  
 > chtíč hrabivý, jenž mou je vášní slepou;  
@@ -609,7 +609,7 @@ subtitle: ''
 
 > O zřetelnějších známkách otravy  
 > sám Avicenna, myslím, sotva ví,  
-> když o tom píše ve svém Kánonu,  
+> když o tom píše ve svém _Kánonu_,  
 > než jevili ti vrazi ve skonu!  
 > Tak smrt si vzala svoje na mordýřích  
 > a zahynul i jejich travič štíří.

@@ -516,7 +516,7 @@ subtitle: Začíná se část první
 
 > Kněz přines marku a ten kanovník  
 > se rozloučil a pěkně vzdal mu dík,  
-> řek adieu a vyšel z bytu ven.  
+> řek _adieu_ a vyšel z bytu ven.  
 > A třetí den byl zpět i se zlatem  
 > a vrátil knězi obnos do halíře,  
 > a ten byl z toho ovšem v dobré míře.
@@ -951,7 +951,7 @@ subtitle: Začíná se část první
 > A ještě chtěl bych tady sdělit s vámi,  
 > co dokládají zasvěcenci sami.  
 > Tak o tom píše Arnold z Villanovy  
-> ve spise Rosarius těmi slovy,  
+> ve spise _Rosarius_ těmi slovy,  
 > jež beze lži vám říkám, každý suď:  
 > „Na světě nikdo neumrtví rtuť,  
 > není-li její bratr umrtven.  
@@ -962,7 +962,7 @@ subtitle: Začíná se část první
 > což znamená, by jasný smysl dán  
 > byl přirovnání, že ten drak je rtuť  
 > a sourozenec síra; její žluť  
-> nám Sol a Luna může poskytnout.  
+> nám _Sol_ a _Luna_ může poskytnout.  
 > A proto,“ praví, „dejte na můj soud  
 > a nezkoušejte pokus takový,  
 > jestliže mudrc sám vám nepoví,  
@@ -973,7 +973,7 @@ subtitle: Začíná se část první
 
 > Či co ten učeň Platónův nám poví,  
 > jenž vyzvídat chtěl jednou na mistrovi,  
-> jak svědčí jasně kniha Senior,  
+> jak svědčí jasně kniha _Senior_,  
 > že o tom vůbec nemůže být spor:  
 > „Jaké má kámen mudrců as jméno?“
 
@@ -981,7 +981,7 @@ subtitle: Začíná se část první
 > „Vem kámen, který titan nazvaný je.“  
 > „Co je to?“ — „Totéž, co je magnézie,“  
 > řekl mu Plato. — „Hm,“ děl fámulus,  
-> „to je ignotum per ignotius[\[19\]](../Text/canterburske_povidky_034.html#_ftn19).  
+> „to je _ignotum per ignotius_[\[19\]](../Text/canterburske_povidky_034.html#_ftn19).  
 > Co je to magnézie, smím se ptát?“  
 > „Toť voda, která musí sestávat  
 > z čtyř elementů,“ odpověděl Plato.  

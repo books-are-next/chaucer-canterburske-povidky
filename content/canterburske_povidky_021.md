@@ -77,7 +77,7 @@ subtitle: ''
 
 > A když tím skončil, tenhle šelma starý  
 > od lidí vybral příspěvky a dary,  
-> řek qui cum patre[\[14\]](../Text/canterburske_povidky_034.html#_ftn14) a už nečekal,  
+> řek _qui cum patre_[\[14\]](../Text/canterburske_povidky_034.html#_ftn14) a už nečekal,  
 > sebral svůj tlumok a hned spěchal dál.  
 > S kovanou holí, s kutnou podkasanou  
 > vlez do všech domů, nic nenechal stranou,  
@@ -115,7 +115,7 @@ subtitle: ''
 > A hospodáře zastal v posteli,  
 > neboť byl právě vážně nemocen.
 
-> „Ó, Deus hic[\[15\]](../Text/canterburske_povidky_034.html#_ftn15), Tomáši, dobrý den,  
+> „Ó, _Deus hic_[\[15\]](../Text/canterburske_povidky_034.html#_ftn15), Tomáši, dobrý den,  
 > můj příteli!“ řek fráter šveholící.  
 > „Bůh splať vám, Tomáši, zde na lavici  
 > jsem často sedával a jako pán  
@@ -187,7 +187,7 @@ subtitle: ''
 > a dál s ním nemám žádnou legraci.  
 > Ať dělám co chci, on mě nesnáší.“
 
-> „Ó Tomáši, je vous dis, Tomáši!  
+> „Ó Tomáši, _je vous dis_, Tomáši!  
 > Toť dílo ďáblovo, to nesmí být!  
 > Hněv může Boha hodně urazit;  
 > pár slovy chci vás vyvést z toho bludu.“
@@ -195,7 +195,7 @@ subtitle: ''
 > „Však, mistře,“ řekla žena, „dřív než půjdu,  
 > co chcete jíst? Hned dám se do chystání.“
 
-> On na to: „Je vous dis sans doute[\[16\]](../Text/canterburske_povidky_034.html#_ftn16), má paní,  
+> On na to: „_Je vous dis sans doute_[\[16\]](../Text/canterburske_povidky_034.html#_ftn16), má paní,  
 > z kapouna játra postačí mi třeba  
 > s krajíčkem bílým domácího chleba.  
 > Pečenou kančí hlavu též mám rád  
@@ -225,7 +225,7 @@ subtitle: ''
 > A já jsem vstal a v kruhu bratří svých  
 > jsem cítil slzy kanout po lících.  
 > Nebylo zvonů zvonění a šum,  
-> jen jedna píseň, a to Te deum;  
+> jen jedna píseň, a to _Te deum_;  
 > a já se ještě modlil k Ježíši  
 > dík za zjevení. I ta nejtišší  
 > modlitba naše, pane můj a paní,  
@@ -297,7 +297,7 @@ subtitle: ''
 > jak labutě, jsou jako láhve vína  
 > a pěkně umí uctít Hospodina,  
 > když za mrtvé čtou žalm, co napsal David,  
-> a začnou: ‚Škyt! Cor meum eructavit![\[17\]](../Text/canterburske_povidky_034.html#_ftn17)‘  
+> a začnou: ‚Škyt! _Cor meum eructavit!_[\[17\]](../Text/canterburske_povidky_034.html#_ftn17)‘  
 > Kdo čerpá hlouběj v Jeho slova studni  
 > než my, tak chudí, pokorní a cudní?  
 > A nejen sluchem — slovo je náš čin!  
@@ -446,7 +446,7 @@ subtitle: ''
 > Co na to dvořan odpověděl pak?  
 > Co spravil řečí, když mu synek pad!  
 > Neradno proto s velmoži si hrát;  
-> a proto kývni, zapěj Placebo[\[18\]](../Text/canterburske_povidky_034.html#_ftn18),  
+> a proto kývni, zapěj _Placebo_[\[18\]](../Text/canterburske_povidky_034.html#_ftn18),  
 > ledaže chudák stál by před tebou,  
 > tomu si vyčti každý jeho hřích,  
 > ne pánu však, i kdyby peklo zdvih!

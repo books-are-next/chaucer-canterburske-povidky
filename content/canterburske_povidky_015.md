@@ -312,7 +312,7 @@ subtitle: Lucifer
 > písmenu rychle kladla k písmeně,  
 > až hrůzou z toho pobledla mu líc.  
 > Ta ruka, na niž hleděl zděšeně,  
-> napsala Mene, tekel a nic víc.
+> napsala _Mene, tekel_ a nic víc.
 
 > A v celé zemi nenašel se mág,  
 > jenž vysvětlil by smysl toho psaní,  
@@ -342,7 +342,7 @@ subtitle: Lucifer
 > za to tě čeká pomsta Hospodina!
 
 > On seslal dlaň, co na omítce stěn  
-> napsala Mene, tekel. Dle těch run  
+> napsala _Mene, tekel_. Dle těch run  
 > jsi dovládl, byls lehkým nalezen  
 > a zavržen ke králům bez korun;  
 > říš Médům propadne a Peršanům!“  
