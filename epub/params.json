@@ -19,28 +19,37 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
+      "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3 ",
       "blockquote": "mlpverse ",
-      "figure": "",
-      "em": "",
+      "figure": "mlpobrazky ",
+      "em": "mlpznakkurziva11b ",
       "strong": "",
       "remove": "",
       "ignore": ""
     },
     "structure": [
       {
+        "filename": "canterburske_povidky_001.md",
+        "xhtml": "canterburske_povidky_001.html",
+        "id": 0,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "canterburske_povidky_004.md",
+        "xhtml": "canterburske_povidky_004.html",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
         "isSection": true,
         "id": "section-1",
         "children": [
-          {
-            "filename": "canterburske_povidky_001.md",
-            "xhtml": "canterburske_povidky_001.html",
-            "id": 0,
-            "role": "break",
-            "numberedChildren": false,
-            "inToc": true,
-            "children": []
-          },
           {
             "filename": "canterburske_povidky_002.md",
             "xhtml": "canterburske_povidky_002.html",
@@ -57,15 +66,6 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": false,
-            "children": []
-          },
-          {
-            "filename": "canterburske_povidky_004.md",
-            "xhtml": "canterburske_povidky_004.html",
-            "id": 3,
-            "role": "colophon",
-            "numberedChildren": false,
-            "inToc": true,
             "children": []
           },
           {
@@ -367,18 +367,18 @@
             "inToc": true,
             "title": "Poznámky pod čarou",
             "children": []
-          },
-          {
-            "filename": "canterburske_povidky_035.md",
-            "xhtml": "canterburske_povidky_035.html",
-            "id": 34,
-            "role": "colophon",
-            "numberedChildren": false,
-            "inToc": true,
-            "children": []
           }
         ],
         "numberedChildren": false
+      },
+      {
+        "filename": "canterburske_povidky_035.md",
+        "xhtml": "canterburske_povidky_035.html",
+        "id": 34,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
       },
       {
         "isSection": true,
@@ -395,7 +395,7 @@
       "identifier": "8469d747-ec10-4d22-b15b-9aa21b679476",
       "author": "Geoffrey Chaucer",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-29T13:08:40.784Z"
+      "modified": "2021-10-29T13:49:48.837Z"
     },
     "chapters": [
       {
@@ -430,7 +430,7 @@
       },
       {
         "titleSuggest": "Povídka\nrytířova",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Začíná se část první",
         "filename": "canterburske_povidky_006.md",
         "xhtml": "canterburske_povidky_006.html"
       },
@@ -472,7 +472,7 @@
       },
       {
         "titleSuggest": "Skládání o panu Thopasovi",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "I",
         "filename": "canterburske_povidky_013.md",
         "xhtml": "canterburske_povidky_013.html"
       },
@@ -484,7 +484,7 @@
       },
       {
         "titleSuggest": "Vyprávění mnichovo",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Lucifer",
         "filename": "canterburske_povidky_015.md",
         "xhtml": "canterburske_povidky_015.html"
       },
@@ -526,7 +526,7 @@
       },
       {
         "titleSuggest": "Povídka studentova",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Začíná se část první",
         "filename": "canterburske_povidky_022.md",
         "xhtml": "canterburske_povidky_022.html"
       },
@@ -556,7 +556,7 @@
       },
       {
         "titleSuggest": "Povídka sluhy kanovníkova",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Začíná se část první",
         "filename": "canterburske_povidky_027.md",
         "xhtml": "canterburske_povidky_027.html"
       },
@@ -586,7 +586,7 @@
       },
       {
         "titleSuggest": "Vysvětlivky",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Prolog",
         "filename": "canterburske_povidky_032.md",
         "xhtml": "canterburske_povidky_032.html"
       },
@@ -687,6 +687,6 @@
       "user": "books-are-next",
       "repo": "chaucer-canterburske-povidky"
     },
-    "generatedAt": 1635512922277
+    "generatedAt": 1635515390112
   }
 }
