@@ -168,8 +168,8 @@ subtitle: ''
 > a růženec jí přilnul k zápěstím;  
 > byl z korálků se zelenými zrnky  
 > a zlatou sponkou, na níž do korunky  
-> vyryto bylo nejdřív velké „A“  
-> a potom Amor vincit omnia[\[1\]](../Text/canterburske_povidky_034.html#_ftn1).  
+> vyryto bylo nejdřív velké „_A_“  
+> a potom _Amor vincit omnia_[\[1\]](../Text/canterburske_povidky_034.html#_ftn1).  
 > S ní byla ještě jedna KLÁŠTERNICE  
 > a její KAPLAN, kněz to, do třetice.
 
@@ -428,7 +428,7 @@ subtitle: ''
 > A přístavy znal na pobřeží steré  
 > od Gotlandu až k mysu Finisterre,  
 > a každý španělský i britský záliv.  
-> A jeho loď, tu Magdaléna zvali.
+> A jeho loď, tu _Magdaléna_ zvali.
 
 > Pak tam byl také DOKTOR MEDICÍNY.  
 > Na světě sotva uměl by kdo jiný  
@@ -673,7 +673,7 @@ subtitle: ''
 > „hej“ stejně dobře jako papež z Říma.  
 > Když chtěl však někdo zkoušet, co v něm dřímá,  
 > hned se vší filosofií svou uvíz  
-> a křičel jenom: „Quaestio quid juris!“[\[2\]](../Text/canterburske_povidky_034.html#_ftn2)  
+> a křičel jenom: „_Quaestio quid juris!_“[\[2\]](../Text/canterburske_povidky_034.html#_ftn2)  
 > Byl milý chlapík, dobrý kompaňon,  
 > půhončí nebyl lepší nežli on.  
 > Ba, odpouštíval za pozvání k vínu  

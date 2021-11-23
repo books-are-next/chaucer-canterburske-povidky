@@ -976,7 +976,7 @@ subtitle: Začíná se část první
 > vzhléd k nebesům, a cítě se už líp,  
 > pronesl jasně jako slavný slib:
 
-> „Ó ten bůh lásky! Benedicite[\[3\]](../Text/canterburske_povidky_034.html#_ftn3),  
+> „Ó ten bůh lásky! _Benedicite_[\[3\]](../Text/canterburske_povidky_034.html#_ftn3),  
 > jak velký je a mocný, vidíte!  
 > Vzdorovat jemu nikdo neumí,  
 > pro zázraky své bohem zván být smí;  
@@ -1321,7 +1321,7 @@ subtitle: Začíná se část první
 > a sílu má a věrně miluje,  
 > ať v Anglii anebo bůhvíkde,  
 > by nadevšecko zatoužil být zde,  
-> pro dámu bít se. Benedicite!  
+> pro dámu bít se. _Benedicite!_  
 > Jak srdce plesá při myšlence té!
 
 > To cítili, kdož s Palamonem jeli;  
@@ -1981,7 +1981,7 @@ subtitle: Začíná se část první
 > Hruď Arcitova otekla a pal  
 > se kolem srdce stále zvětšoval.  
 > Sražená krev přes felčarů všech um  
-> zůstala v těle jako venenum[\[4\]](../Text/canterburske_povidky_034.html#_ftn4)  
+> zůstala v těle jako _venenum_[\[4\]](../Text/canterburske_povidky_034.html#_ftn4)  
 > a žilou pouštění ni pijavky ni nůž  
 > ni lektvary mu neprospěly už.  
 > Ni žádný dryák ni lék čistící,  

@@ -85,7 +85,7 @@ subtitle: ''
 > před sochou Panny s Ježíškem vždy smek,  
 > a nežli dál šel, na kolena klek,  
 > jak naučen byl ve své víře pravé,  
-> a pomodlil se z hloubi srdce Ave.
+> a pomodlil se z hloubi srdce _Ave_.
 
 > Tak ona vdova učila své děcko,  
 > ať s úctou Matky Kristovy si všímá,  
@@ -98,7 +98,7 @@ subtitle: ''
 > Ten hošík seděl nad svou školní prací  
 > a ve škamně se učil v slabikáři  
 > a poslouchal, jak pějí starší žáci,  
-> jak se jim Alma redemptoris[\[7\]](../Text/canterburske_povidky_034.html#_ftn7) daří;  
+> jak se jim _Alma redemptoris_[\[7\]](../Text/canterburske_povidky_034.html#_ftn7) daří;  
 > a jak jen mohl, přitočil se tváří  
 > a psal si slova, učil se je pěti,  
 > až první verš znal celý po paměti.
@@ -138,7 +138,7 @@ subtitle: ''
 > Jak už jsem řekla, toto malé dítě  
 > vždy procházelo skrze ona místa,  
 > kde žili židé, pějíc přehlasitě:  
-> „Ó, Panno, Alma redemptoris čistá!“  
+> „Ó, Panno, _Alma redemptoris_ čistá!“  
 > A líbeznost té drahé Matky Krista  
 > tak jala jej, že cestou bez ustání  
 > svým zpěvem musel chválit naši Paní.
@@ -204,7 +204,7 @@ subtitle: ''
 > Ten jasný smaragd, tato perla ctnosti,  
 > zářící rubín pro svůj konec krutý,  
 > ač ukryt byl a krk měl proříznutý,  
-> své Alma redemptoris jal se pět,  
+> své _Alma redemptoris_ jal se pět,  
 > až začalo se všechno kolem chvět.
 
 > Křesťané v ghetto seběhli se v davu,  
@@ -237,7 +237,7 @@ subtitle: ''
 > vykropit rakev vyšli z refektáře.  
 > Když voda svěcená se dotkla tváře,  
 > tu dítko ještě v pršce svatých kapek  
-> zapělo znovu Alma Matce matek.
+> zapělo znovu _Alma_ Matce matek.
 
 > Tu muž ten svatý, kterým byl ten opat,  
 > jak mniši jsou, či aspoň býti mají,  
@@ -253,7 +253,7 @@ subtitle: ''
 > leč Kristus Pán, jak vyčíst možno z knih,  
 > chce slaven býti v mysli věřících  
 > a uctít svoji Matku; ke cti její  
-> já tady napořád O Alma pěji.
+> já tady napořád _O Alma_ pěji.
 
 > Kristovu Matku, studnu slitování,  
 > jsem ze všech slabých sil měl vždycky rád;  

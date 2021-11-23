@@ -111,7 +111,7 @@ subtitle: ''
 > Vonělo mu tam všechno bylinkami  
 > a sám byl taky sladkou vůní známý —  
 > jak valerián nebo lékořice.  
-> Svůj Almagest a různé učebnice  
+> Svůj _Almagest_ a různé učebnice  
 > i astrolabium a počitadla  
 > a všechno to, čím jeho věda vládla,  
 > ukládal v hlavách lože do přihrádky.  
@@ -119,9 +119,9 @@ subtitle: ''
 > a ležela tam pěkná citera,  
 > na kterou hrál tak libě zvečera,  
 > až pokojík se všecek rozechvíval,  
-> když Pozdravení andělské si zpíval,  
+> když _Pozdravení andělské_ si zpíval,  
 > a zvučela v tom radost ze života,  
-> když Královská mu z hrdla zněla nota.  
+> když _Královská_ mu z hrdla zněla nota.  
 > Tak čas tam trávil, pokud na to měl,  
 > ze štipendií, z půjček od přátel.
 

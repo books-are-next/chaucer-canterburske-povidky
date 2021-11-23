@@ -5,6 +5,8 @@ subtitle: ''
 
 zůstala po 670 sdruženě rýmovaných verších nedokončena.
 
+  
+
 V tatarské zemi vládl statečný válečník, bohatý, moudrý a spravedlivý král Kambinschán, který měl dva syny a překrásnou dceru Kanace.
 
 V den dvacátého výročí svého panování uspořádal král nádhernou hostinu. Když seděl u tabule, vjel do hodovní síně cizí rytíř na mosazném koni. V ruce držel skleněné zrcadlo, na prstě měl zlatý prsten a po boku nahý meč. Pozdravil Kambinschána jménem vládce Arábie a Indie a odevzdal mu dary od svého pána. Pro krále byl určen mosazný kůň, jenž mohl létat vzduchem k libovolnému cíli, a meč, který proťal svým ostřím každé brnění a jehož rány mohly být zhojeny toliko úderem téhož meče naplocho. Pro princeznu Kanace pak bylo zrcadlo, ve kterém bylo možno spatřit číkoli tajné myšlenky, a prsten, jehož otočením bylo možno poznat řeč ptáků a kouzelnou léčivou moc všech bylin.

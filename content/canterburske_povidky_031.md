@@ -5,6 +5,8 @@ subtitle: ''
 
 Dnešním výborem z Chaucerových „Canterburských povídek“ se dostává českému čtenáři do rukou překlad, z něhož si může udělat představu o celku díla, vytvořeného básníkem v devíti fragmentech původně plánovaného cyklu. Na osmdesát rukopisů, lišících se vzájemně pořadím fragmentů, výpustkami, dodatky i omyly opisovačů, bylo podkladem pro pozdější kritická vydání, z nichž první pořídil v 18. století Angličan Tyrwhitt. Po něm byly „Canterburské povídky“ vydány mnohokrát jak v původním textu, tak v převodech ze středověké angličtiny do současného jazyka. Byly překládány do mnoha řečí, ať už v plném znění, či ve výborech.
 
+  
+
 U nás – nepočítáme-li podstatně zkrácený prozaický přepis, vydaný před první světovou válkou – začal seznamovat českou literaturu s nejzralejším dílem Chaucerovým prof. Vilém Mathesius, který publikoval r. 1927 v Laichtrově sbírce školní četby „Světla“ svůj překlad prologu a povídky kněze jeptišek, pořízený nerýmovaným veršem.
 
 Pokusil jsem se navázat na průkopnické dílo Mathesiovo svým prvním výborem z „Canterburských povídek“, přeloženým formou originálu, který vyšel v Družstevní práci v Praze r. 1941 s doslovem prof. Bohumila Trnky.

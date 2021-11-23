@@ -420,8 +420,8 @@ subtitle: ''
 > když vaši krásu zřím, já z pohledu  
 > na šarlat kolem vašich očiček  
 > hned zapomínám, proč jsem se tak lek;  
-> vždyť, jako bylo už in principio[\[9\]](../Text/canterburske_povidky_034.html#_ftn9),  
-> mulier est hominis confusio[\[10\]](../Text/canterburske_povidky_034.html#_ftn10).  
+> vždyť, jako bylo už _in principio_[\[9\]](../Text/canterburske_povidky_034.html#_ftn9)_,  
+> mulier est hominis confusio_[\[10\]](../Text/canterburske_povidky_034.html#_ftn10).  
 > (Má latina má smysl ten, má paní,  
 > že žena mužovo je požehnání!)  
 > Když v noci cítím útlounký váš bok,  
@@ -506,7 +506,7 @@ subtitle: ''
 > či Boëthius nebo Bradwarinus;  
 > nevím, zda svaté boží předvídání  
 > do jistých činů zcela nutně vhání  
-> (tím nutně míním: jinak nemohu-li),  
+> (tím _nutně_ míním: _jinak nemohu-li_),  
 > či zda mám dánu svobodnou snad vůli,  
 > abych sám rozhod, jestli ne, či ano,  
 > třeba to bylo Bohem předvídáno,  
@@ -533,7 +533,7 @@ subtitle: ''
 > se sestrami se pěkně popelila  
 > a Kokrháč, ten vznosný manžel její,  
 > než mořská panna zpíval veseleji  
-> (neb Fysiologus o pannách v moři  
+> (neb _Fysiologus_ o pannách v moři  
 > tvrdí, že pěkné, jasné tóny tvoří).  
 > A když se jeho zraky upřely  
 > za motýlem, jenž vletěl do zelí,  
@@ -575,7 +575,7 @@ subtitle: ''
 > A jak byl přitom také obezřelý!  
 > Kohouta nad něj sotva někde měli,  
 > ať ve zpěvu anebo ve vědění!  
-> V knize Pan Burnel, osel čet jsem čtení  
+> V knize _Pan Burnel, osel_ čet jsem čtení  
 > o kohoutu a farářovu synu,  
 > jenž ve svém mládí spáchal klukovinu  
 > a zranil kohouta; a za ten zločin  
@@ -593,7 +593,7 @@ subtitle: ''
 > těch pochlebníků, mistrů v krasolhaní,  
 > k nimž náklonnost vás jímá převeliká,  
 > větší než k tomu, kdo vám pravdu říká!  
-> Čtěte, co píše kniha Kazatel,  
+> Čtěte, co píše kniha _Kazatel_,  
 > a lichotných se střezte nepřátel!
 
 > Náš Kokrháč si stoup na prstů špičky,  
@@ -627,7 +627,7 @@ subtitle: ''
 > ani při zkáze vypleněné Tróje,  
 > ani když hrozný Pyrrhus ve výpadu  
 > Priama krále za šedou chyt bradu  
-> a mečem sklál ho, jak dí Aeneida,  
+> a mečem sklál ho, jak dí _Aeneida_,  
 > jako když na ty slípky trhla bída  
 > a zřely, jaká pána stihla slota.  
 > Ječela hlavně madam Pertelota,  

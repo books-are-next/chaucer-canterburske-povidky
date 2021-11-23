@@ -153,7 +153,7 @@ subtitle: ''
 > nechtěje v studu za špinavé slovo  
 > své povolání přiznat biřicovo.
 
-> „Pardieu!“ řek zbrojnoš, „to jsme tedy bratři;  
+> „_Pardieu!_“ řek zbrojnoš, „to jsme tedy bratři;  
 > tys výběrčí a já k nim taky patřím!  
 > A protože jsem zcela cizí tady,  
 > rád budu, když se stanem kamarády!  
@@ -162,7 +162,7 @@ subtitle: ''
 > a do našeho hrabství přijdeš-li,  
 > můžeš si nabrat plných přehršlí!“
 
-> „Grand merci,[\[12\]](../Text/canterburske_povidky_034.html#_ftn12)“ biřic děl, „to se mi líbí!“
+> „_Grand merci,_[\[12\]](../Text/canterburske_povidky_034.html#_ftn12)“ biřic děl, „to se mi líbí!“
 
 > Tak navzájem si vyměnili sliby  
 > až do smrti být bratry neustále,  
@@ -293,7 +293,7 @@ subtitle: ''
 > už brzy přijdeš, brachu, do těch míst,  
 > kde bez otázek vším si budeš jist,  
 > kde zkušenost tak lehne na tvá bedra,  
-> že budeš moci čísti ex cathedra[\[13\]](../Text/canterburske_povidky_034.html#_ftn13)  
+> že budeš moci čísti _ex cathedra_[\[13\]](../Text/canterburske_povidky_034.html#_ftn13)  
 > líp nežli Virgil, dokud básníval,  
 > a líp než Dante. Teď však jeďme dál!  
 > Pojedu s tebou, chci ti zůstat blíž  

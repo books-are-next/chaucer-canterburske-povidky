@@ -5,6 +5,8 @@ subtitle: ''
 
 má 286 sdruženě rýmovaných veršů, v jakých je psána většina ostatních historek.
 
+  
+
 Starořímský vážený a bohatý rytíř Virginius měl jedinou dceru Virginii. Byla tak krásná, jako by v ní sama příroda chtěla ukázat, že její umění překonává schopnosti všech sochařů a malířů. Když dospěla panna čtrnácti let, byla tak moudrá, skromná, pilná a cudná, tak se dovedla bránit zbujným zábavám, které ohrožují ctnost mladých dívek, že neměla zapotřebí chův a vychovatelek.
 
 Jednoho dne si v chrámu povšiml Virginie soudce Appius, jemuž byl poddán celý kraj. Vzplál k ní hříšnou vášní a uplatil jakéhosi Claudia, aby mu pomohl zmocnit se jí úskokem.

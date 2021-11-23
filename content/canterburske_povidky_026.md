@@ -5,6 +5,8 @@ subtitle: ''
 
 má 553 veršů v sedmiřádkových stancích téhož typu jako studentova povídka o Griseldě. Po úvodu, který varuje před hříchem zahálky, po zbožné prosbě k Panně Marii, aby pomohla při skládání legendy, a po filologickém výkladu o původu jména Cecílie následuje vlastní příběh.
 
+  
+
 Cecílie se narodila ve vznešené rodině v Římě v prvních dobách křesťanství. Odmalička byla sama vychována jako křesťanka. Když se musila vdát za mladého muže jménem Valerián, oblekla si na tělo žíněnou košili a svému muži oznámila, že má andělského milence, který jej ztrestá, dotkne-li se jí s tělesnou žádostí, ale odmění, bude-li ji milovat cudně. Poslala pak Valeriána k papeži Urbanovi, jenž se skrýval s ostatními křesťany v katakombách, aby se dal pokřtít a mohl tak spatřit anděla na vlastní oči.
 
 Pokřtěný Valerián skutečně uviděl anděla, který jemu i Cecílii dal po věnci z lilií a růží, jež nikdy neuvadnou a jež uvidí jen ctnostný člověk. Za odměnu, že Valerián přijal křesťanství, slíbil mu pak anděl splnění jakéhokoli přání. A Valerián si přál, aby i jeho bratr Tiburtius došel milosti a byl obrácen na pravou víru. Andělu se přání zalíbilo a zaručil jim oběma mučednickou slávu.

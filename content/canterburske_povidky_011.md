@@ -10,7 +10,7 @@ subtitle: ''
 > vy s něčím spusťte, pro Kristovy kosti!  
 > Vím přece, vy že ve své učenosti,  
 > při božích ranách, mnoho umíte!“  
-> A farář na to: „Benedicite!  
+> A farář na to: „_Benedicite!_  
 > Proč klejete tak, to vás něco trápí?“
 
 > Hostinský zvolal: „Cítíte to, chlapi?  
@@ -266,7 +266,7 @@ subtitle: ''
 > a připraví vše mužům ke snídani.  
 > Pak za manželem šla ta pěkná paní  
 > a na kontoár směle buchy buch.  
-> „Qui est là?[\[6\]](../Text/canterburske_povidky_034.html#_ftn6)“ ptal se — „To jsem já, ví Bůh!  
+> „_Qui est là?_[\[6\]](../Text/canterburske_povidky_034.html#_ftn6)“ ptal se — „To jsem já, ví Bůh!  
 > Jak dlouho ještě trvat má ten půst?  
 > Nestačí vám už vašich číslic růst  
 > a kramaření v měšcích s dukáty?  

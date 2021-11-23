@@ -5,6 +5,8 @@ subtitle: ''
 
 obsahuje v originále 1226 sdruženě rýmovaných veršů.
 
+  
+
 „O kvílení a bědování bych mohl mnoho vyprávět,“ řekl kupec. „Oženil jsem se na stará kolena přede dvěma měsíci, ale moje žena nemá nic společného s Griseldou; je hotová saň. Trpím tím natolik, že o svých vlastních zkušenostech ani mluvit nemohu, ale rád vám povím příběh, který osvětlí, oč jde.“
 
 V Lombardii žil důstojný rytíř Január, který do šedesátky užíval světa jako mládenec, pak však z pokání či stařecké dětinskosti zatoužil po ženění. Přesvědčil sám sebe, jaké slasti manželství skýtá, a žádal své přátele, aby mu našli hezkou mladou ženu, kterou by mohl hníst jako vosk podle svého přání, která by se mu nestavěla na odpor a která by ukojila všechny jeho tužby.
