@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Canterburské povídky",
@@ -6,7 +7,9 @@
       "author": "Geoffrey Chaucer",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-29T12:57:54.892Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2basne mlpuroven2kapitola ",
@@ -32,7 +35,7 @@
         "filename": "canterburske_povidky_001.md",
         "xhtml": "canterburske_povidky_001.html",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -690,3 +693,4 @@
     "generatedAt": 1635515390112
   }
 }
+
