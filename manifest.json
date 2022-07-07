@@ -1,70 +1,104 @@
 {
-  "author": "Geoffrey Chaucer",
-  "identifier": "chaucer-canterburske-povidky-7f164af",
-  "languagecode": "cs",
-  "modified": "2021-10-29T12:57:54.892Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Canterburské povídky",
-  "revision": "7f164af",
+  "author": "Geoffrey Chaucer",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "chaucer-canterburske-povidky-4900308",
+  "revision": "4900308",
+  "readingOrder": [
+    "promo.html",
+    "canterburske_povidky_002.html",
+    "canterburske_povidky_003.html",
+    "canterburske_povidky_005.html",
+    "canterburske_povidky_006.html",
+    "canterburske_povidky_007.html",
+    "canterburske_povidky_008.html",
+    "canterburske_povidky_009.html",
+    "canterburske_povidky_010.html",
+    "canterburske_povidky_011.html",
+    "canterburske_povidky_012.html",
+    "canterburske_povidky_013.html",
+    "canterburske_povidky_014.html",
+    "canterburske_povidky_015.html",
+    "canterburske_povidky_016.html",
+    "canterburske_povidky_017.html",
+    "canterburske_povidky_018.html",
+    "canterburske_povidky_019.html",
+    "canterburske_povidky_020.html",
+    "canterburske_povidky_021.html",
+    "canterburske_povidky_022.html",
+    "canterburske_povidky_023.html",
+    "canterburske_povidky_024.html",
+    "canterburske_povidky_025.html",
+    "canterburske_povidky_026.html",
+    "canterburske_povidky_027.html",
+    "canterburske_povidky_028.html",
+    "canterburske_povidky_029.html",
+    "canterburske_povidky_030.html",
+    "canterburske_povidky_031.html",
+    "canterburske_povidky_032.html",
+    "canterburske_povidky_033.html",
+    "canterburske_povidky_034.html",
+    "about.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:11:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378704356
+    "date": "Thu Jul 07 2022 12:08:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657195695418
   },
   "documents": [
     {
-      "title": "",
-      "file": "canterburske_povidky_001.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": null,
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
+      "next": "canterburske_povidky_002.html",
+      "toc": []
     },
     {
-      "title": "",
+      "title": "Canterburské povídky",
       "file": "canterburske_povidky_002.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "canterburske_povidky_003.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Canterburské povídky",
       "file": "canterburske_povidky_003.html",
       "words": 7,
       "chars": 59,
       "ideas": 3,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 2,
+      "prev": "canterburske_povidky_002.html",
+      "next": "canterburske_povidky_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -72,37 +106,39 @@
     {
       "title": "Prolog",
       "file": "canterburske_povidky_005.html",
-      "words": 5426,
+      "words": 5360,
       "chars": 28861,
-      "ideas": 927,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 861,
+      "role": "chapter",
+      "order": 3,
+      "prev": "canterburske_povidky_003.html",
+      "next": "canterburske_povidky_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Prolog",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Povídka\nrytířova",
+      "title": "Povídka rytířova",
       "file": "canterburske_povidky_006.html",
-      "words": 13990,
-      "chars": 72913,
-      "ideas": 2458,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 13786,
+      "chars": 72914,
+      "ideas": 2253,
+      "role": "chapter",
+      "order": 4,
+      "prev": "canterburske_povidky_005.html",
+      "next": "canterburske_povidky_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Povídka\nrytířova",
-          "id": "chunk1",
+          "name": "Povídka rytířova",
+          "id": null,
           "children": []
         }
       ]
@@ -110,37 +146,39 @@
     {
       "title": "Povídka mlynářova",
       "file": "canterburske_povidky_007.html",
-      "words": 4794,
-      "chars": 24747,
-      "ideas": 879,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 4658,
+      "chars": 24707,
+      "ideas": 747,
+      "role": "chapter",
+      "order": 5,
+      "prev": "canterburske_povidky_006.html",
+      "next": "canterburske_povidky_008.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka mlynářova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Povídka\nšafářova",
+      "title": "Povídka šafářova",
       "file": "canterburske_povidky_008.html",
-      "words": 3033,
-      "chars": 15502,
-      "ideas": 558,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 2947,
+      "chars": 15503,
+      "ideas": 471,
+      "role": "chapter",
+      "order": 6,
+      "prev": "canterburske_povidky_007.html",
+      "next": "canterburske_povidky_009.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Povídka\nšafářova",
-          "id": "chunk1",
+          "name": "Povídka šafářova",
+          "id": null,
           "children": []
         }
       ]
@@ -151,15 +189,16 @@
       "words": 41,
       "chars": 292,
       "ideas": 3,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 7,
+      "prev": "canterburske_povidky_008.html",
+      "next": "canterburske_povidky_010.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka kuchařova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -170,15 +209,16 @@
       "words": 484,
       "chars": 2909,
       "ideas": 10,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 8,
+      "prev": "canterburske_povidky_009.html",
+      "next": "canterburske_povidky_011.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka juristova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -186,18 +226,19 @@
     {
       "title": "Povídka lodníkova",
       "file": "canterburske_povidky_011.html",
-      "words": 3036,
-      "chars": 15544,
-      "ideas": 545,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 2955,
+      "chars": 15533,
+      "ideas": 464,
+      "role": "chapter",
+      "order": 9,
+      "prev": "canterburske_povidky_010.html",
+      "next": "canterburske_povidky_012.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka lodníkova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -205,18 +246,19 @@
     {
       "title": "Povídka abatyše",
       "file": "canterburske_povidky_012.html",
-      "words": 1700,
-      "chars": 8657,
-      "ideas": 330,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 1628,
+      "chars": 8646,
+      "ideas": 258,
+      "role": "chapter",
+      "order": 10,
+      "prev": "canterburske_povidky_011.html",
+      "next": "canterburske_povidky_013.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka abatyše",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -224,18 +266,19 @@
     {
       "title": "Skládání o panu Thopasovi",
       "file": "canterburske_povidky_013.html",
-      "words": 1326,
-      "chars": 7122,
-      "ideas": 320,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 1179,
+      "chars": 6101,
+      "ideas": 244,
+      "role": "chapter",
+      "order": 11,
+      "prev": "canterburske_povidky_012.html",
+      "next": "canterburske_povidky_014.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Skládání o panu Thopasovi",
-          "id": "chunk1",
+          "name": "Skládání o panu Thopasovi",
+          "id": null,
           "children": []
         }
       ]
@@ -246,15 +289,16 @@
       "words": 215,
       "chars": 1425,
       "ideas": 6,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 12,
+      "prev": "canterburske_povidky_013.html",
+      "next": "canterburske_povidky_015.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Povídka o Melibeovi",
-          "id": "chunk1",
+          "name": "Povídka o Melibeovi",
+          "id": null,
           "children": []
         }
       ]
@@ -262,18 +306,19 @@
     {
       "title": "Vyprávění mnichovo",
       "file": "canterburske_povidky_015.html",
-      "words": 3244,
+      "words": 3138,
       "chars": 16611,
-      "ideas": 616,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 510,
+      "role": "chapter",
+      "order": 13,
+      "prev": "canterburske_povidky_014.html",
+      "next": "canterburske_povidky_016.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Vyprávění mnichovo",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -281,18 +326,19 @@
     {
       "title": "Povídka kněze jeptišek",
       "file": "canterburske_povidky_016.html",
-      "words": 4488,
+      "words": 4404,
       "chars": 23619,
-      "ideas": 783,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 699,
+      "role": "chapter",
+      "order": 14,
+      "prev": "canterburske_povidky_015.html",
+      "next": "canterburske_povidky_017.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka kněze jeptišek",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -303,15 +349,16 @@
       "words": 277,
       "chars": 1777,
       "ideas": 9,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 15,
+      "prev": "canterburske_povidky_016.html",
+      "next": "canterburske_povidky_018.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka doktora medicíny",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -319,18 +366,19 @@
     {
       "title": "Povídka odpustkáře",
       "file": "canterburske_povidky_018.html",
-      "words": 4092,
+      "words": 3985,
       "chars": 21491,
-      "ideas": 748,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 641,
+      "role": "chapter",
+      "order": 16,
+      "prev": "canterburske_povidky_017.html",
+      "next": "canterburske_povidky_019.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka odpustkáře",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -338,37 +386,39 @@
     {
       "title": "Povídka ženy z Bathu",
       "file": "canterburske_povidky_019.html",
-      "words": 8433,
-      "chars": 43111,
-      "ideas": 1496,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 8204,
+      "chars": 43075,
+      "ideas": 1271,
+      "role": "chapter",
+      "order": 17,
+      "prev": "canterburske_povidky_018.html",
+      "next": "canterburske_povidky_020.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Povídka ženy z Bathu",
-          "id": "chunk1",
+          "name": "Povídka ženy z Bathu",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Povídka\nfráterova",
+      "title": "Povídka fráterova",
       "file": "canterburske_povidky_020.html",
-      "words": 2650,
-      "chars": 13592,
-      "ideas": 519,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 2538,
+      "chars": 13574,
+      "ideas": 406,
+      "role": "chapter",
+      "order": 18,
+      "prev": "canterburske_povidky_019.html",
+      "next": "canterburske_povidky_021.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Povídka\nfráterova",
-          "id": "chunk1",
+          "name": "Povídka fráterova",
+          "id": null,
           "children": []
         }
       ]
@@ -376,18 +426,19 @@
     {
       "title": "Povídka půhončího",
       "file": "canterburske_povidky_021.html",
-      "words": 4111,
+      "words": 3997,
       "chars": 21174,
-      "ideas": 742,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 628,
+      "role": "chapter",
+      "order": 19,
+      "prev": "canterburske_povidky_020.html",
+      "next": "canterburske_povidky_022.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka půhončího",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -395,18 +446,19 @@
     {
       "title": "Povídka studentova",
       "file": "canterburske_povidky_022.html",
-      "words": 7975,
+      "words": 7633,
       "chars": 40590,
-      "ideas": 1557,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 1215,
+      "role": "chapter",
+      "order": 20,
+      "prev": "canterburske_povidky_021.html",
+      "next": "canterburske_povidky_023.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka studentova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -417,15 +469,16 @@
       "words": 724,
       "chars": 4414,
       "ideas": 17,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 21,
+      "prev": "canterburske_povidky_022.html",
+      "next": "canterburske_povidky_024.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka kupcova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -436,15 +489,16 @@
       "words": 338,
       "chars": 2081,
       "ideas": 9,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 22,
+      "prev": "canterburske_povidky_023.html",
+      "next": "canterburske_povidky_025.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka panošova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -452,18 +506,19 @@
     {
       "title": "Povídka statkářova",
       "file": "canterburske_povidky_025.html",
-      "words": 5827,
+      "words": 5659,
       "chars": 30128,
-      "ideas": 1085,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "ideas": 917,
+      "role": "chapter",
+      "order": 23,
+      "prev": "canterburske_povidky_024.html",
+      "next": "canterburske_povidky_026.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka statkářova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -474,15 +529,16 @@
       "words": 456,
       "chars": 2756,
       "ideas": 10,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 24,
+      "prev": "canterburske_povidky_025.html",
+      "next": "canterburske_povidky_027.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka jeptiščina",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -490,18 +546,19 @@
     {
       "title": "Povídka sluhy kanovníkova",
       "file": "canterburske_povidky_027.html",
-      "words": 6045,
-      "chars": 30858,
-      "ideas": 1080,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 5896,
+      "chars": 30844,
+      "ideas": 931,
+      "role": "chapter",
+      "order": 25,
+      "prev": "canterburske_povidky_026.html",
+      "next": "canterburske_povidky_028.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka sluhy kanovníkova",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -512,15 +569,16 @@
       "words": 335,
       "chars": 1980,
       "ideas": 9,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 26,
+      "prev": "canterburske_povidky_027.html",
+      "next": "canterburske_povidky_029.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka kolejního správce",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -531,15 +589,16 @@
       "words": 144,
       "chars": 985,
       "ideas": 3,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 27,
+      "prev": "canterburske_povidky_028.html",
+      "next": "canterburske_povidky_030.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Povídka venkovského faráře",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -547,18 +606,19 @@
     {
       "title": "Závěr",
       "file": "canterburske_povidky_030.html",
-      "words": 1,
-      "chars": 5,
-      "ideas": 1,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "words": 39,
+      "chars": 253,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 28,
+      "prev": "canterburske_povidky_029.html",
+      "next": "canterburske_povidky_031.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Závěr",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -569,15 +629,16 @@
       "words": 526,
       "chars": 3636,
       "ideas": 8,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 29,
+      "prev": "canterburske_povidky_030.html",
+      "next": "canterburske_povidky_032.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Poznámka překladatele",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -588,15 +649,16 @@
       "words": 7909,
       "chars": 52665,
       "ideas": 268,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 30,
+      "prev": "canterburske_povidky_031.html",
+      "next": "canterburske_povidky_033.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Vysvětlivky",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -607,15 +669,16 @@
       "words": 6136,
       "chars": 39370,
       "ideas": 299,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 31,
+      "prev": "canterburske_povidky_032.html",
+      "next": "canterburske_povidky_034.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Abecední rejstřík",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -626,71 +689,51 @@
       "words": 260,
       "chars": 1712,
       "ideas": 22,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
+      "role": "chapter",
+      "order": 32,
+      "prev": "canterburske_povidky_033.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Poznámky pod čarou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 147,
-      "chars": 976,
-      "ideas": 21,
-      "role": "colophon",
+      "file": "about.html",
+      "words": 135,
+      "chars": 921,
+      "ideas": 15,
+      "role": "about",
       "order": null,
-      "next": "canterburske_povidky_001.html",
+      "prev": "canterburske_povidky_034.html",
+      "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Tiráž",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "canterburske_povidky_001.html",
-      "toc": []
     }
   ],
   "totals": {
     "all": {
-      "words": 98170,
-      "chars": 531562,
-      "ideas": 15341
+      "words": 96000,
+      "chars": 530653,
+      "ideas": 13214
     },
     "chapters": {
-      "words": 0,
-      "chars": 0,
-      "ideas": 0
+      "words": 95859,
+      "chars": 529685,
+      "ideas": 13195
     }
   }
 }

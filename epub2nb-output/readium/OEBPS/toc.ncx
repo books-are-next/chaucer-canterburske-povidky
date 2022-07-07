@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="8469d747-ec10-4d22-b15b-9aa21b679476"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Canterburské povídky</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Prolog</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Povídka rytířova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Začíná se část první</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_006.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Zde končí část první a začíná se část druhá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_006.html#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Zde končí část druhá a začíná se část třetí</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_006.html#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Zde končí část třetí a začíná se část čtvrtá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_006.html#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Povídka mlynářova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Povídka šafářova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Povídka kuchařova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Povídka juristova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Povídka lodníkova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Povídka abatyše</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Skládání o panu Thopasovi</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_013.html"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_013.html#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_013.html#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Povídka o Melibeovi</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Vyprávění mnichovo</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_015.html"/>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Lucifer</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Adam</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Samson</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Herkules</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Balsazar</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Ugolino, hrabě pisánský</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Nero</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Krésus</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_015.html#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Povídka kněze jeptišek</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Povídka doktora medicíny</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Povídka odpustkáře</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Povídka ženy z Bathu</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Povídka fráterova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Povídka půhončího</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Povídka studentova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_022.html"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Začíná se část první</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Zde končí část první a začíná se část druhá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Zde končí část druhá a začíná se část třetí</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Zde končí část třetí a začíná se část čtvrtá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Zde končí část čtvrtá a začíná se část pátá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Zde končí část pátá a začíná se část šestá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Poslání</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_022.html#sigil_toc_id_21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Povídka kupcova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Povídka panošova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Povídka statkářova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Povídka jeptiščina</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Povídka sluhy kanovníkova</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_027.html"/>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Začíná se část první</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_027.html#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Zde končí část první a začíná se část druhá</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_027.html#sigil_toc_id_23"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Povídka kolejního správce</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Povídka venkovského faráře</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Závěr</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Poznámka překladatele</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Vysvětlivky</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_032.html"/>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Prolog</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Povídka rytířova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Povídka mlynářova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Povídka šafářova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Povídka kuchařova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Povídka juristova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Povídka lodníkova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Povídka abatyše</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Skládání o panu Thopasovi</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Povídka o Melibeovi</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Vyprávění mnichovo</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Povídka kněze jeptišek</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Povídka doktora medicíny</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Povídka odpustkáře</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Povídka ženy z Bathu</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Povídka fráterova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Povídka půhončího</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Povídka studentova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Povídka kupcova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Povídka panošova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Povídka statkářova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Povídka jeptiščina</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Povídka sluhy kanovníkova</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Povídka kolejního správce</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Povídka venkovského faráře</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Závěr</text>
+        </navLabel>
+        <content src="Text/canterburske_povidky_032.html#sigil_toc_id_49"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Abecední rejstřík</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/canterburske_povidky_034.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

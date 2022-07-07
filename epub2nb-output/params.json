@@ -1,0 +1,701 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Canterburské povídky",
+      "identifier": "8469d747-ec10-4d22-b15b-9aa21b679476",
+      "author": "Geoffrey Chaucer",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-29T12:57:54.892Z",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie",
+      "contentType": "prose"
+    },
+    "elements": {
+      "title": "mlpuroven2basne mlpuroven2kapitola ",
+      "subtitle": "mlpuroven3basne mlpuroven3nadpis ",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3 ",
+      "blockquote": "mlpverse ",
+      "figure": "mlpobrazky ",
+      "em": "mlpznakkurziva11b ",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "canterburske_povidky_001.md",
+            "xhtml": "canterburske_povidky_001.html",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "canterburske_povidky_004.md",
+            "xhtml": "canterburske_povidky_004.html",
+            "id": 3,
+            "role": "about",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "isSection": true,
+            "id": "section-1",
+            "children": [
+              {
+                "filename": "canterburske_povidky_002.md",
+                "xhtml": "canterburske_povidky_002.html",
+                "id": 1,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": false,
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_003.md",
+                "xhtml": "canterburske_povidky_003.html",
+                "id": 2,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": false,
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_005.md",
+                "xhtml": "canterburske_povidky_005.html",
+                "id": 4,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Prolog",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_006.md",
+                "xhtml": "canterburske_povidky_006.html",
+                "id": 5,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka rytířova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_007.md",
+                "xhtml": "canterburske_povidky_007.html",
+                "id": 6,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka mlynářova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_008.md",
+                "xhtml": "canterburske_povidky_008.html",
+                "id": 7,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka šafářova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_009.md",
+                "xhtml": "canterburske_povidky_009.html",
+                "id": 8,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka kuchařova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_010.md",
+                "xhtml": "canterburske_povidky_010.html",
+                "id": 9,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka juristova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_011.md",
+                "xhtml": "canterburske_povidky_011.html",
+                "id": 10,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka lodníkova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_012.md",
+                "xhtml": "canterburske_povidky_012.html",
+                "id": 11,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka abatyše",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_013.md",
+                "xhtml": "canterburske_povidky_013.html",
+                "id": 12,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Skládání o panu Thopasovi",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_014.md",
+                "xhtml": "canterburske_povidky_014.html",
+                "id": 13,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka o Melibeovi",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_015.md",
+                "xhtml": "canterburske_povidky_015.html",
+                "id": 14,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Vyprávění mnichovo",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_016.md",
+                "xhtml": "canterburske_povidky_016.html",
+                "id": 15,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka kněze jeptišek",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_017.md",
+                "xhtml": "canterburske_povidky_017.html",
+                "id": 16,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka doktora medicíny",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_018.md",
+                "xhtml": "canterburske_povidky_018.html",
+                "id": 17,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka odpustkáře",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_019.md",
+                "xhtml": "canterburske_povidky_019.html",
+                "id": 18,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka ženy z Bathu",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_020.md",
+                "xhtml": "canterburske_povidky_020.html",
+                "id": 19,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka fráterova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_021.md",
+                "xhtml": "canterburske_povidky_021.html",
+                "id": 20,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka půhončího",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_022.md",
+                "xhtml": "canterburske_povidky_022.html",
+                "id": 21,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka studentova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_023.md",
+                "xhtml": "canterburske_povidky_023.html",
+                "id": 22,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka kupcova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_024.md",
+                "xhtml": "canterburske_povidky_024.html",
+                "id": 23,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka panošova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_025.md",
+                "xhtml": "canterburske_povidky_025.html",
+                "id": 24,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka statkářova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_026.md",
+                "xhtml": "canterburske_povidky_026.html",
+                "id": 25,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka jeptiščina",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_027.md",
+                "xhtml": "canterburske_povidky_027.html",
+                "id": 26,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka sluhy kanovníkova",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_028.md",
+                "xhtml": "canterburske_povidky_028.html",
+                "id": 27,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka kolejního správce",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_029.md",
+                "xhtml": "canterburske_povidky_029.html",
+                "id": 28,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Povídka venkovského faráře",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_030.md",
+                "xhtml": "canterburske_povidky_030.html",
+                "id": 29,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Závěr",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_031.md",
+                "xhtml": "canterburske_povidky_031.html",
+                "id": 30,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Poznámka překladatele",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_032.md",
+                "xhtml": "canterburske_povidky_032.html",
+                "id": 31,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Vysvětlivky",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_033.md",
+                "xhtml": "canterburske_povidky_033.html",
+                "id": 32,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Abecední rejstřík",
+                "children": []
+              },
+              {
+                "filename": "canterburske_povidky_034.md",
+                "xhtml": "canterburske_povidky_034.html",
+                "id": 33,
+                "role": "chapter",
+                "numberedChildren": false,
+                "inToc": true,
+                "title": "Poznámky pod čarou",
+                "children": []
+              }
+            ],
+            "numberedChildren": false
+          },
+          {
+            "filename": "canterburske_povidky_035.md",
+            "xhtml": "canterburske_povidky_035.html",
+            "id": 34,
+            "role": "about",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "isSection": true,
+            "inToc": true,
+            "id": "section-2",
+            "children": [],
+            "numberedChildren": true
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Canterburské povídky",
+      "identifier": "8469d747-ec10-4d22-b15b-9aa21b679476",
+      "author": "Geoffrey Chaucer",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2019-05-30T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_001.md",
+        "xhtml": "canterburske_povidky_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_002.md",
+        "xhtml": "canterburske_povidky_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_003.md",
+        "xhtml": "canterburske_povidky_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_004.md",
+        "xhtml": "canterburske_povidky_004.html"
+      },
+      {
+        "titleSuggest": "Prolog",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_005.md",
+        "xhtml": "canterburske_povidky_005.html"
+      },
+      {
+        "titleSuggest": "Povídka rytířova",
+        "subtitleSuggest": "Začíná se část první",
+        "filename": "canterburske_povidky_006.md",
+        "xhtml": "canterburske_povidky_006.html"
+      },
+      {
+        "titleSuggest": "Povídka mlynářova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_007.md",
+        "xhtml": "canterburske_povidky_007.html"
+      },
+      {
+        "titleSuggest": "Povídka šafářova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_008.md",
+        "xhtml": "canterburske_povidky_008.html"
+      },
+      {
+        "titleSuggest": "Povídka kuchařova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_009.md",
+        "xhtml": "canterburske_povidky_009.html"
+      },
+      {
+        "titleSuggest": "Povídka juristova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_010.md",
+        "xhtml": "canterburske_povidky_010.html"
+      },
+      {
+        "titleSuggest": "Povídka lodníkova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_011.md",
+        "xhtml": "canterburske_povidky_011.html"
+      },
+      {
+        "titleSuggest": "Povídka abatyše",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_012.md",
+        "xhtml": "canterburske_povidky_012.html"
+      },
+      {
+        "titleSuggest": "Skládání o panu Thopasovi",
+        "subtitleSuggest": "I",
+        "filename": "canterburske_povidky_013.md",
+        "xhtml": "canterburske_povidky_013.html"
+      },
+      {
+        "titleSuggest": "Povídka o Melibeovi",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_014.md",
+        "xhtml": "canterburske_povidky_014.html"
+      },
+      {
+        "titleSuggest": "Vyprávění mnichovo",
+        "subtitleSuggest": "Lucifer",
+        "filename": "canterburske_povidky_015.md",
+        "xhtml": "canterburske_povidky_015.html"
+      },
+      {
+        "titleSuggest": "Povídka kněze jeptišek",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_016.md",
+        "xhtml": "canterburske_povidky_016.html"
+      },
+      {
+        "titleSuggest": "Povídka doktora medicíny",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_017.md",
+        "xhtml": "canterburske_povidky_017.html"
+      },
+      {
+        "titleSuggest": "Povídka odpustkáře",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_018.md",
+        "xhtml": "canterburske_povidky_018.html"
+      },
+      {
+        "titleSuggest": "Povídka ženy z Bathu",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_019.md",
+        "xhtml": "canterburske_povidky_019.html"
+      },
+      {
+        "titleSuggest": "Povídka fráterova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_020.md",
+        "xhtml": "canterburske_povidky_020.html"
+      },
+      {
+        "titleSuggest": "Povídka půhončího",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_021.md",
+        "xhtml": "canterburske_povidky_021.html"
+      },
+      {
+        "titleSuggest": "Povídka studentova",
+        "subtitleSuggest": "Začíná se část první",
+        "filename": "canterburske_povidky_022.md",
+        "xhtml": "canterburske_povidky_022.html"
+      },
+      {
+        "titleSuggest": "Povídka kupcova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_023.md",
+        "xhtml": "canterburske_povidky_023.html"
+      },
+      {
+        "titleSuggest": "Povídka panošova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_024.md",
+        "xhtml": "canterburske_povidky_024.html"
+      },
+      {
+        "titleSuggest": "Povídka statkářova",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_025.md",
+        "xhtml": "canterburske_povidky_025.html"
+      },
+      {
+        "titleSuggest": "Povídka jeptiščina",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_026.md",
+        "xhtml": "canterburske_povidky_026.html"
+      },
+      {
+        "titleSuggest": "Povídka sluhy kanovníkova",
+        "subtitleSuggest": "Začíná se část první",
+        "filename": "canterburske_povidky_027.md",
+        "xhtml": "canterburske_povidky_027.html"
+      },
+      {
+        "titleSuggest": "Povídka kolejního správce",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_028.md",
+        "xhtml": "canterburske_povidky_028.html"
+      },
+      {
+        "titleSuggest": "Povídka venkovského faráře",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_029.md",
+        "xhtml": "canterburske_povidky_029.html"
+      },
+      {
+        "titleSuggest": "Závěr",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_030.md",
+        "xhtml": "canterburske_povidky_030.html"
+      },
+      {
+        "titleSuggest": "Poznámka překladatele",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_031.md",
+        "xhtml": "canterburske_povidky_031.html"
+      },
+      {
+        "titleSuggest": "Vysvětlivky",
+        "subtitleSuggest": "Prolog",
+        "filename": "canterburske_povidky_032.md",
+        "xhtml": "canterburske_povidky_032.html"
+      },
+      {
+        "titleSuggest": "Abecední rejstřík",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_033.md",
+        "xhtml": "canterburske_povidky_033.html"
+      },
+      {
+        "titleSuggest": "Poznámky pod čarou",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_034.md",
+        "xhtml": "canterburske_povidky_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "canterburske_povidky_035.md",
+        "xhtml": "canterburske_povidky_035.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "mlpdopispodpis",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpseznam",
+      "mlptext",
+      "mlptext1",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radku3",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkaprekladatel",
+      "mlpuroven2basne",
+      "mlpuroven2kapitola",
+      "mlpuroven3basne",
+      "mlpuroven3nadpis",
+      "mlpverse",
+      "mlpznakkurziva11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "chaucer-canterburske-povidky"
+    },
+    "generatedAt": 1657195597801
+  }
+}

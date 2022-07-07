@@ -1,0 +1,516 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Canterburské povídky",
+    "identifier": "8469d747-ec10-4d22-b15b-9aa21b679476",
+    "author": "Geoffrey Chaucer",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-05-30T00:00:00.000Z",
+    "published": "2019-05-30T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/canterburske_povidky_035.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/canterburske_povidky_005.html"
+    },
+    {
+      "title": "Povídka rytířova",
+      "children": [
+        {
+          "title": "Začíná se část první",
+          "href": "OEBPS/Text/canterburske_povidky_006.html#sigil_toc_id_1"
+        },
+        {
+          "title": "Zde končí část první a začíná se část druhá",
+          "href": "OEBPS/Text/canterburske_povidky_006.html#sigil_toc_id_2"
+        },
+        {
+          "title": "Zde končí část druhá a začíná se část třetí",
+          "href": "OEBPS/Text/canterburske_povidky_006.html#sigil_toc_id_3"
+        },
+        {
+          "title": "Zde končí část třetí a začíná se část čtvrtá",
+          "href": "OEBPS/Text/canterburske_povidky_006.html#sigil_toc_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/canterburske_povidky_006.html"
+    },
+    {
+      "title": "Povídka mlynářova",
+      "href": "OEBPS/Text/canterburske_povidky_007.html"
+    },
+    {
+      "title": "Povídka šafářova",
+      "href": "OEBPS/Text/canterburske_povidky_008.html"
+    },
+    {
+      "title": "Povídka kuchařova",
+      "href": "OEBPS/Text/canterburske_povidky_009.html"
+    },
+    {
+      "title": "Povídka juristova",
+      "href": "OEBPS/Text/canterburske_povidky_010.html"
+    },
+    {
+      "title": "Povídka lodníkova",
+      "href": "OEBPS/Text/canterburske_povidky_011.html"
+    },
+    {
+      "title": "Povídka abatyše",
+      "href": "OEBPS/Text/canterburske_povidky_012.html"
+    },
+    {
+      "title": "Skládání o panu Thopasovi",
+      "children": [
+        {
+          "title": "I",
+          "href": "OEBPS/Text/canterburske_povidky_013.html#sigil_toc_id_5"
+        },
+        {
+          "title": "II",
+          "href": "OEBPS/Text/canterburske_povidky_013.html#sigil_toc_id_6"
+        }
+      ],
+      "href": "OEBPS/Text/canterburske_povidky_013.html"
+    },
+    {
+      "title": "Povídka o Melibeovi",
+      "href": "OEBPS/Text/canterburske_povidky_014.html"
+    },
+    {
+      "title": "Vyprávění mnichovo",
+      "children": [
+        {
+          "title": "Lucifer",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_7"
+        },
+        {
+          "title": "Adam",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_8"
+        },
+        {
+          "title": "Samson",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_9"
+        },
+        {
+          "title": "Herkules",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_10"
+        },
+        {
+          "title": "Balsazar",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_11"
+        },
+        {
+          "title": "Ugolino, hrabě pisánský",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_12"
+        },
+        {
+          "title": "Nero",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_13"
+        },
+        {
+          "title": "Krésus",
+          "href": "OEBPS/Text/canterburske_povidky_015.html#sigil_toc_id_14"
+        }
+      ],
+      "href": "OEBPS/Text/canterburske_povidky_015.html"
+    },
+    {
+      "title": "Povídka kněze jeptišek",
+      "href": "OEBPS/Text/canterburske_povidky_016.html"
+    },
+    {
+      "title": "Povídka doktora medicíny",
+      "href": "OEBPS/Text/canterburske_povidky_017.html"
+    },
+    {
+      "title": "Povídka odpustkáře",
+      "href": "OEBPS/Text/canterburske_povidky_018.html"
+    },
+    {
+      "title": "Povídka ženy z Bathu",
+      "href": "OEBPS/Text/canterburske_povidky_019.html"
+    },
+    {
+      "title": "Povídka fráterova",
+      "href": "OEBPS/Text/canterburske_povidky_020.html"
+    },
+    {
+      "title": "Povídka půhončího",
+      "href": "OEBPS/Text/canterburske_povidky_021.html"
+    },
+    {
+      "title": "Povídka studentova",
+      "children": [
+        {
+          "title": "Začíná se část první",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_15"
+        },
+        {
+          "title": "Zde končí část první a začíná se část druhá",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_16"
+        },
+        {
+          "title": "Zde končí část druhá a začíná se část třetí",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_17"
+        },
+        {
+          "title": "Zde končí část třetí a začíná se část čtvrtá",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_18"
+        },
+        {
+          "title": "Zde končí část čtvrtá a začíná se část pátá",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_19"
+        },
+        {
+          "title": "Zde končí část pátá a začíná se část šestá",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_20"
+        },
+        {
+          "title": "Poslání",
+          "href": "OEBPS/Text/canterburske_povidky_022.html#sigil_toc_id_21"
+        }
+      ],
+      "href": "OEBPS/Text/canterburske_povidky_022.html"
+    },
+    {
+      "title": "Povídka kupcova",
+      "href": "OEBPS/Text/canterburske_povidky_023.html"
+    },
+    {
+      "title": "Povídka panošova",
+      "href": "OEBPS/Text/canterburske_povidky_024.html"
+    },
+    {
+      "title": "Povídka statkářova",
+      "href": "OEBPS/Text/canterburske_povidky_025.html"
+    },
+    {
+      "title": "Povídka jeptiščina",
+      "href": "OEBPS/Text/canterburske_povidky_026.html"
+    },
+    {
+      "title": "Povídka sluhy kanovníkova",
+      "children": [
+        {
+          "title": "Začíná se část první",
+          "href": "OEBPS/Text/canterburske_povidky_027.html#sigil_toc_id_22"
+        },
+        {
+          "title": "Zde končí část první a začíná se část druhá",
+          "href": "OEBPS/Text/canterburske_povidky_027.html#sigil_toc_id_23"
+        }
+      ],
+      "href": "OEBPS/Text/canterburske_povidky_027.html"
+    },
+    {
+      "title": "Povídka kolejního správce",
+      "href": "OEBPS/Text/canterburske_povidky_028.html"
+    },
+    {
+      "title": "Povídka venkovského faráře",
+      "href": "OEBPS/Text/canterburske_povidky_029.html"
+    },
+    {
+      "title": "Závěr",
+      "href": "OEBPS/Text/canterburske_povidky_030.html"
+    },
+    {
+      "title": "Poznámka překladatele",
+      "href": "OEBPS/Text/canterburske_povidky_031.html"
+    },
+    {
+      "title": "Vysvětlivky",
+      "children": [
+        {
+          "title": "Prolog",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_24"
+        },
+        {
+          "title": "Povídka rytířova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_25"
+        },
+        {
+          "title": "Povídka mlynářova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_26"
+        },
+        {
+          "title": "Povídka šafářova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_27"
+        },
+        {
+          "title": "Povídka kuchařova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_28"
+        },
+        {
+          "title": "Povídka juristova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_29"
+        },
+        {
+          "title": "Povídka lodníkova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_30"
+        },
+        {
+          "title": "Povídka abatyše",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_31"
+        },
+        {
+          "title": "Skládání o panu Thopasovi",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_32"
+        },
+        {
+          "title": "Povídka o Melibeovi",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_33"
+        },
+        {
+          "title": "Vyprávění mnichovo",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_34"
+        },
+        {
+          "title": "Povídka kněze jeptišek",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_35"
+        },
+        {
+          "title": "Povídka doktora medicíny",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_36"
+        },
+        {
+          "title": "Povídka odpustkáře",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_37"
+        },
+        {
+          "title": "Povídka ženy z Bathu",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_38"
+        },
+        {
+          "title": "Povídka fráterova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_39"
+        },
+        {
+          "title": "Povídka půhončího",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_40"
+        },
+        {
+          "title": "Povídka studentova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_41"
+        },
+        {
+          "title": "Povídka kupcova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_42"
+        },
+        {
+          "title": "Povídka panošova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_43"
+        },
+        {
+          "title": "Povídka statkářova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_44"
+        },
+        {
+          "title": "Povídka jeptiščina",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_45"
+        },
+        {
+          "title": "Povídka sluhy kanovníkova",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_46"
+        },
+        {
+          "title": "Povídka kolejního správce",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_47"
+        },
+        {
+          "title": "Povídka venkovského faráře",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_48"
+        },
+        {
+          "title": "Závěr",
+          "href": "OEBPS/Text/canterburske_povidky_032.html#sigil_toc_id_49"
+        }
+      ],
+      "href": "OEBPS/Text/canterburske_povidky_032.html"
+    },
+    {
+      "title": "Abecední rejstřík",
+      "href": "OEBPS/Text/canterburske_povidky_033.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/canterburske_povidky_034.html"
+    }
+  ]
+}
