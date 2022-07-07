@@ -45,7 +45,7 @@
         "filename": "canterburske_povidky_004.md",
         "xhtml": "canterburske_povidky_004.html",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -379,7 +379,7 @@
         "filename": "canterburske_povidky_035.md",
         "xhtml": "canterburske_povidky_035.html",
         "id": 34,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
