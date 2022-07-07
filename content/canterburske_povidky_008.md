@@ -1,9 +1,10 @@
 ---
-title: |-
-  Povídka
-  šafářova
+title: Povídka šafářova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Ten špás nás všechny rozesmál ažaž,  
 > ten Absolón i chytrý Mikuláš,  
@@ -477,7 +478,7 @@ subtitle: ''
 > a netušila, jaká přišla mela.  
 > A teď ji ze sna zburcoval ten pád.  
 > „Můj křížku z Bromholmu!“ se jala řvát,  
-> „_In manus tuas_[\[5\]](../Text/canterburske_povidky_034.html#_ftn5), Pane, tady straší!  
+> „_In manus tuas_[\[5\]](./resources/undefined), Pane, tady straší!  
 > Šimone, vzbuď se, jsou tu satanáši!  
 > Je po mně! Au! Pro Krista Ježíše,  
 > na hlavě leží mi a na břiše!  
@@ -517,3 +518,5 @@ subtitle: ''
 > vás, siláci i křehotinky, chrání  
 > svým majestátem nebeský náš Bůh!  
 > Já mlynářovi zaplatil svůj dluh.
+
+</section>

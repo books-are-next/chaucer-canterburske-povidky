@@ -1,11 +1,16 @@
 ---
 title: Povídka doktora medicíny
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 má 286 sdruženě rýmovaných veršů, v jakých je psána většina ostatních historek.
 
-  
+</section>
+
+<section>
 
 Starořímský vážený a bohatý rytíř Virginius měl jedinou dceru Virginii. Byla tak krásná, jako by v ní sama příroda chtěla ukázat, že její umění překonává schopnosti všech sochařů a malířů. Když dospěla panna čtrnácti let, byla tak moudrá, skromná, pilná a cudná, tak se dovedla bránit zbujným zábavám, které ohrožují ctnost mladých dívek, že neměla zapotřebí chův a vychovatelek.
 
@@ -20,3 +25,5 @@ Taková je odplata za hřích a zlé svědomí.
 Hostinský byl tak dojat smutným příběhem o Virginii, které krása přinesla smrt, že pocítil potřebu povyrazit se něčím veselejším. Vyzval tedy ke slovu odpustkáře. Odpustkář přislíbil, jen co se v blízké hospodě posilní zákuskem a douškem. Ostatní však odmítli rozpustilé řeči a vyžádali si něco pro poučení.
 
 Odpustkář se potřeboval napít, aby jej takový příběh napadl, a pak začal.
+
+</section>

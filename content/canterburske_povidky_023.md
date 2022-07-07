@@ -1,11 +1,16 @@
 ---
 title: Povídka kupcova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 obsahuje v originále 1226 sdruženě rýmovaných veršů.
 
-  
+</section>
+
+<section>
 
 „O kvílení a bědování bych mohl mnoho vyprávět,“ řekl kupec. „Oženil jsem se na stará kolena přede dvěma měsíci, ale moje žena nemá nic společného s Griseldou; je hotová saň. Trpím tím natolik, že o svých vlastních zkušenostech ani mluvit nemohu, ale rád vám povím příběh, který osvětlí, oč jde.“
 
@@ -36,3 +41,5 @@ Pod stromem, na němž seděl Damián, projevila Mája chuť na hrušky a navrhl
 Vtom však vrátil Pluto Januárovi zrak a rytířův první pohled přistihl ženu s panošem na stromě. Začal lamentovat, ale Mája mu duchapřítomně odpověděla. Že jen z lásky k němu jej chtěla vyléčit ze slepoty; zápasit s mužem v koruně stromu jí prý bylo doporučeno jako nejlepší prostředek k navrácení zraku. Január sice pochyboval, proč právě musila mít při léčivém zápasu vyhrnuty sukně, i o jiných okolnostech, jež zahlédl, ale Mája jej přesvědčila, že špatně viděl, že léčba zřejmě ještě není dokončena. A tak Januárovi nezbývalo než poděkovat své ženě za její obětavou lásku.
 
 „Ba,“ řekl hostinský, když kupec skončil, „ženy znají mnoho fortelů jak nás, hlupáky, vodit za nos. Což teprve, kdybych vám vyprávěl o té své vlastní! Bojím se však, aby jí to někdo z vás nedonesl, a stěží bych svedl vypovědět všechno; proto radši mlčím.“
+
+</section>

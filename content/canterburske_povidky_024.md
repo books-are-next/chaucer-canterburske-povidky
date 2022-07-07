@@ -1,11 +1,16 @@
 ---
 title: Povídka panošova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 zůstala po 670 sdruženě rýmovaných verších nedokončena.
 
-  
+</section>
+
+<section>
 
 V tatarské zemi vládl statečný válečník, bohatý, moudrý a spravedlivý král Kambinschán, který měl dva syny a překrásnou dceru Kanace.
 
@@ -20,3 +25,5 @@ Sokolice vyprávěla pak princezně o příčinách svého žalu. Řekla jí o t
 Vypravěč oznámí svůj úmysl podat zprávu o činech Kambinschánových a jeho synů Algarsyfa a Kambala, povídka však zůstala torsem.
 
 Statkář pochválil mladého panoše za jeho vyprávění a vyslovil lítost nad tím, že jeho vlastní syn dbá více o hazard než o moudrost a ctnost. Na vyzvání hostinského pak vyprávěl sám svou povídku.
+
+</section>

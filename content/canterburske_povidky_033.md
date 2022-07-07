@@ -1,11 +1,16 @@
 ---
 title: Abecední rejstřík
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 Kurzivou tištěná slova v textu jednotlivých hesel jsou sama hesly v rejstříku.
 
-  
+</section>
+
+<section>
 
 Jména starořeckých bohů používá Chaucer v latinské podobě, dosazuje vlastně za ně příbuzná jim božstva římská. Tak jsou uváděna v textu i v rejstříku. Protože však báje vztahující se k řeckým božstvům se vždy přesně nekryjí s bájeslovím římským, jsou vedle latinských jmen bohů, tištěných kurzivou jako hesla, uváděny i tvary řecké.
 
@@ -600,3 +605,5 @@ _Zefýr_ – vlahý západní vánek, zosobňovaný obyčejně jako božstvo.
 _Zlatohlav_ – zlatými nitkami protkávaná látka, brokát.
 
 _Zvěrokruh_ – myšlený kruhový pás na obloze, jímž procházejí dráhy měsíce i planet a jehož středem jde ekliptika, kruh, v němž protíná nebeskou báň rovina zemského oběhu kolem slunce, totožná se zdánlivou drahou ročního slunečního pohybu. Dělí se ve dvanáct úseků čili znamení, jimiž zdánlivě slunce během roku prochází. Znamení v pořadí jsou: Skopec, Býk, Blíženci, Rak, Lev, Panna, Váhy, Štír, Střelec, Kozoroh, Vodnář, Ryby, přičemž do znamení Skopce vstupuje slunce 21. března.
+
+</section>

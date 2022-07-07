@@ -1,7 +1,10 @@
 ---
 title: Povídka lodníkova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Náš hostinský se vztyčil ve třemeni:  
 > „Poslyšte, tohle bylo vyprávění,  
@@ -266,7 +269,7 @@ subtitle: ''
 > a připraví vše mužům ke snídani.  
 > Pak za manželem šla ta pěkná paní  
 > a na kontoár směle buchy buch.  
-> „_Qui est là?_[\[6\]](../Text/canterburske_povidky_034.html#_ftn6)“ ptal se — „To jsem já, ví Bůh!  
+> „_Qui est là?_[\[6\]](./resources/undefined)“ ptal se — „To jsem já, ví Bůh!  
 > Jak dlouho ještě trvat má ten půst?  
 > Nestačí vám už vašich číslic růst  
 > a kramaření v měšcích s dukáty?  
@@ -505,4 +508,6 @@ subtitle: ''
 > Tím končí moje historie, páni,  
 > a Bůh nám jiné přej až do skonání!
 
->                         AMEN
+>              AMEN
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: Vyprávění mnichovo
 subtitle: Lucifer
+contentType: prose
 ---
+
+<section>
 
 > Když dokončil jsem svoji historii  
 > o Melibeovi a Prudencii,  
@@ -571,3 +574,5 @@ subtitle: Lucifer
 > a proto nad tím pěvec může lkát.  
 > Když nejvíc věříš jí, té proradné,  
 > skryje se za mrak, připraví ti pád…
+
+</section>

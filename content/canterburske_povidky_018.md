@@ -1,14 +1,17 @@
 ---
 title: Povídka odpustkáře
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Když kážu, páni, v chrámu z kazatelny,  
 > chci, aby hlas můj všem byl slyšitelný,  
 > i hlaholím a jako zvon chci znět  
 > a to, co kážu, znám už nazpaměť.  
 > Mám jedno téma, vždycky zas a zas:  
-> _Radix malorum est cupiditas_[\[11\]](../Text/canterburske_povidky_034.html#_ftn11).
+> _Radix malorum est cupiditas_[\[11\]](./resources/undefined).
 
 > Nejprve řeknu, odkud právě jdu,  
 > pak veškeré své buly předvedu,  
@@ -696,3 +699,5 @@ subtitle: ''
 > žertu a smíchu popřejte nám chvíli!“
 
 > A dál jsme jeli, když se políbili.
+
+</section>

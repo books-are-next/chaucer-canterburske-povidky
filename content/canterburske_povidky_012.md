@@ -1,7 +1,10 @@
 ---
 title: Povídka abatyše
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > „Kristovy rány! Vzácný mistře můj,  
 > to bylo něco! Ještě dlouho pluj,  
@@ -98,7 +101,7 @@ subtitle: ''
 > Ten hošík seděl nad svou školní prací  
 > a ve škamně se učil v slabikáři  
 > a poslouchal, jak pějí starší žáci,  
-> jak se jim _Alma redemptoris_[\[7\]](../Text/canterburske_povidky_034.html#_ftn7) daří;  
+> jak se jim _Alma redemptoris_[\[7\]](./resources/undefined) daří;  
 > a jak jen mohl, přitočil se tváří  
 > a psal si slova, učil se je pěti,  
 > až první verš znal celý po paměti.
@@ -295,4 +298,6 @@ subtitle: ''
 > a velikou svou milost ať nám zmnoží  
 > na počest naší drahé Matky Boží!
 
->                         AMEN
+>              AMEN
+
+</section>

@@ -1,11 +1,16 @@
 ---
 title: Povídka jeptiščina
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 má 553 veršů v sedmiřádkových stancích téhož typu jako studentova povídka o Griseldě. Po úvodu, který varuje před hříchem zahálky, po zbožné prosbě k Panně Marii, aby pomohla při skládání legendy, a po filologickém výkladu o původu jména Cecílie následuje vlastní příběh.
 
-  
+</section>
+
+<section>
 
 Cecílie se narodila ve vznešené rodině v Římě v prvních dobách křesťanství. Odmalička byla sama vychována jako křesťanka. Když se musila vdát za mladého muže jménem Valerián, oblekla si na tělo žíněnou košili a svému muži oznámila, že má andělského milence, který jej ztrestá, dotkne-li se jí s tělesnou žádostí, ale odmění, bude-li ji milovat cudně. Poslala pak Valeriána k papeži Urbanovi, jenž se skrýval s ostatními křesťany v katakombách, aby se dal pokřtít a mohl tak spatřit anděla na vlastní oči.
 
@@ -22,3 +27,5 @@ Cecílie pohřbila jeho tělo spolu s manželovým a švagrovým. Když i pro ni
 Prefekt si pak dal zavolat tuto zvláštní ženu osobně a vyslýchal ji o její víře. Směle čelila jeho otázkám i hrozbám, až ji konečně, rozezlen její pevností, dal odvést domů a uvařit v její vlastní lázni. Přestože lázeň byla roztápěna do největšího žáru, Cecílie v ní seděla v chládku a nedotčena.
 
 Tu poslal prefekt svého kata, aby ji sťal; avšak ani jeho tři silné rány nebyly s to oddělit hlavu od těla. Třebaže byla poraněna a krvácela, žila Cecílie ještě tři dny, které si vyprosila u Boha, aby mohla odevzdat své křesťanské ovečky papeži Urbanovi. Ten pak se svými jáhny pohřbil její tělo a v místě jejího domu vysvětil chrám boží.
+
+</section>

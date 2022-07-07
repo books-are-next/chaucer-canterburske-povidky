@@ -1,11 +1,16 @@
 ---
 title: Vysvětlivky
 subtitle: Prolog
+contentType: prose
 ---
 
-Vysvětlivky jsou uspořádány jednak podle stránek textu po jednotlivých povídkách, jednak abecedně v rejstříku. Podle stránek jsou seřazeny poznámky vztahující se zejména k určitému místu textu překladu, v abecedním rejstříku jsou zachyceny jména a pojmy, které se častěji opakují, nebo ty, které nejsou nezbytně spojeny s formulací celého verše či veršové pasáže.[\[21\]](../Text/canterburske_povidky_034.html#_ftn21)
+<section>
 
-  
+Vysvětlivky jsou uspořádány jednak podle stránek textu po jednotlivých povídkách, jednak abecedně v rejstříku. Podle stránek jsou seřazeny poznámky vztahující se zejména k určitému místu textu překladu, v abecedním rejstříku jsou zachyceny jména a pojmy, které se častěji opakují, nebo ty, které nejsou nezbytně spojeny s formulací celého verše či veršové pasáže.[\[21\]](./resources/undefined)
+
+</section>
+
+<section>
 
 _Slunce na dráze Skopcem dorazilo k půlce_ – slunce prošlo polovinou své zdánlivé dráhy znamením Skopce, jímž prochází mezi březnem a dubnem. Viz v rejstříku _Zvěrokruh_. Chaucerova záliba v astronomii se projevila i jinak než četnými narážkami v jeho básnických dílech – r. 1391 složil pro svého synka celé pojednání o hvězdářském přístroji astrolabiu.
 
@@ -101,7 +106,9 @@ _Lekce, legenda, ofertorium_ – části katolické bohoslužby. _Lekce_, kázá
 
 Přestože některé prvky tohoto vyprávění – jméno krále starověkých řeckých Athén či zmínka o tom, jak si Théseus získal za manželku královnu Amazonek Hippolytu – navazují na starořecké báje a literární díla, nedá se dokázat přímý původ námětu v klasických pramenech. Původní příběh vznikl asi na půdě byzantské říše, prosáklé římskými vlivy, nebo dlouho koloval v ústním podání v Itálii. V literárním zpracování se objevuje v „Thebaidě“ římského básníka Statia v 1. století našeho letopočtu. Na Statia se rovněž jako na svůj pramen odvolává Chaucer. V některých vydáních jsou také jednotlivé části povídky uvedeny latinskými citáty z něho. Spíše však než ze Statia čerpal Chaucer z veršované „Teseidy“ svého současníka, Itala Giovanniho Boccaccia, který velice volně obměnil příběh Statiův. Ani autor „Canterburských povídek“ nesledoval předlohu příliš závisle. Podstatně vyprávění zkrátil a přidal mnoho svých vlastních rysů. Líčení událostí udánlivě antických ve feudálním rouše – počínaje vévodskými tituly přes rytířské turnaje a konče athénským parlamentem – je obvyklé už u předchůdců Chaucerových. Objevuje se ostatně i na jiných místech Chaucerova díla i v literatuře pozdější – dokonce i ve hrách Shakespearových s antickými náměty. Rovněž všechna jména, i jména božstev, jsou uváděna v latinské, nikoli v původní řecké podobě.
 
-  
+</section>
+
+<section>
 
 _Temné šťávy melancholie_ – viz k prologu heslo _Vždy určil šťávu_.
 
@@ -133,7 +140,9 @@ _Duch změnil příbytek a zmizel tam_ – tyto verše jsou příznačné pro zd
 
 Chaucerův pramen pro tuto povídku nebyl přesně zjištěn. I když základní anekdota vyprávění má tón běžný pro drsný středověký šprým, právě na tomto příběhu se projevuje vlastní tvůrčí mistrovství Chaucerovo, umění realistické kresby postav, odpozorovaných v životě mezi lidovými vrstvami.
 
-  
+</section>
+
+<section>
 
 _Hlasem Piláta_ – tak jako Pilát ve starých náboženských hrách, které ve středověku předcházely pozdějšímu vývoji dramatu. Ve hře o Kristově ukřižování charakterizovali zřejmě herci zápornou postavu Piláta ostrým, nepříjemným hlasem.
 
@@ -157,7 +166,9 @@ _Jak trápilo to potom patriarchu_ – tato podrobnost v biblickém líčení po
 
 Námět této povídky byl zpracován před Chaucerem Francouzem Jeanem de Boves ve 13. století a Chaucerovým současníkem Boccacciem v jeho „Dekameronu“. Teprve Chaucer však vložil do svého vyprávění přesnou realistickou charakteristiku současných společenských typů. Zabíhá až do detailů, v originále například studenti mluví krajovým yorkshirským nářečím.
 
-  
+</section>
+
+<section>
 
 _Hříběcí zub_ – označuje jednak mlsnost, jednak smyslný chtíč.
 
@@ -177,7 +188,9 @@ _Můj křížku z Bromholm_u – tehdy běžné zaklení, podle převorství Bro
 
 Ze srovnání zachovaného úvodu k tomuto nedokončenému vyprávění s úvodem k povídce kolejního správce (jakož i z jiných míst) je patrno, že Chaucer opětovně měnil celkový plán „Canterburských povídek“. Podle původního záměru mělo dílo obsahovat na 120 příběhů, každý vypravěč měl povídat dva cestou do Canterbury a dva cestou zpět. Chaucer, jenž na „Canterburských povídkách“ pracoval s přestávkami několik let, nebyl ještě všude definitivně rozhodnut, kdy a komu má dát kterou povídku vyprávět.
 
-  
+</section>
+
+<section>
 
 Podle většiny rukopisů se nyní všeobecně uznává, že se zachované torzo rozpadá do devíti fragmentů. Nedokončenou povídkou kuchařovou je pak uzavřen první z těchto devíti úryvků.
 
@@ -189,7 +202,9 @@ Pro českého čtenáře jsme sotva nakousnuté kuchařovo vyprávění do výbo
 
 V úvodu k této povídce podává jurista výčet Chaucerových děl, když namítá hostinskému, že všechny vhodné příběhy už dříve sepsal Chaucer, „… i když se jen slabě vyzná ve veršování… a mluví anglicky tak, jak to svede“. Kromě pro básníka charakteristické rozmarné sebeironie vysvítají z výčtu i literárněhistoricky důležitá data pro časové zařazení Chaucerových děl.
 
-  
+</section>
+
+<section>
 
 Původ příběhu samého je prastarý; byl mnohokráte zpracováván před Chaucerem. Jeho prozaickou podobu najdeme ve francouzské kronice Nicolase Triveta ze začátku 14. století. Veršovaná verze se objevuje v díle Chaucerova současníka Johna Gowera v jeho knize „Confessio amantis“ (Zpověď milencova). Objevuje se v ústním podání v lidových pověstech mnoha evropských národů před Chaucerem i po něm. V pozdějších verzích známe jádro tohoto příběhu třeba z našich pohádek Erbenových a B. Němcové.
 
@@ -201,7 +216,9 @@ Je jí zahájen druhý fragment torza „Canterburských povídek“, který pak
 
 Původ vyprávění, jak ukazuje už jeho dějiště, je bezpochyby ve Francii. Základní dějové prvky zpracovává také Boccaccio ve svém „Dekameronu“, jeho hrdina však není mnich, nýbrž německý voják. Jinak dává Chaucer své povídce nové, osobité rysy.
 
-  
+</section>
+
+<section>
 
 Úvodní verše o ženské parádě, za kterou nese manžel tíži nákladů, jsou v originále vyprávěny v první osobě, jako by o věci mluvila žena. Z toho lze soudit, že příběh vložený do úst lodníkovi měl být zprvu podán ženskou vypravěčkou, dobrou soukenicí z Bathu.
 
@@ -215,7 +232,9 @@ _V lombardské bance_ – podle italské krajiny Lombardie. Protože Itálie byl
 
 V Chaucerově době kolovala celá řada podobných vyprávění, vymyšlených k ospravedlnění, nebo dokonce k podnícení barbarských protižidovských výtržností. To, že jako dějiště povídky je uvedena Asie, zdá se nasvědčovat, že k vzniku protižidovských historek přispěla i křižácká tažení do Přední Asie; měly posílit ideologii náboženského fanatismu, zakrývající hospodářský a kořistnický smysl křižáckých výprav. Ať už vzal Chaucer kdekoli námět ke své historce, kterou charakterizoval naivně zbožnou abatyši, datum jeho vzniku nemůže být starší než rok 1255, kdy byl zabit, údajně židy, Hugo z Lincolnu ve východní Anglii, o němž je zmínka v poslední strofě povídky.
 
-  
+</section>
+
+<section>
 
 Umné sedmiřádkové stance, v nichž je příběh psán, si osvojil Chaucer u jihofrancouzských provensálských básníků. Zdá se, že jako první uvedl tuto básnickou formu do Anglie, kde pak došla velké obliby.
 
@@ -235,7 +254,9 @@ _Hugo z Lincolnu_ (čti Linkolnu) – viz úvodní poznámku k této povídce.
 
 Zde si vzal Chaucer na mušku současné rytířské romance, které byly rozšířeným literárním projevem feudální kultury. Jak parodisticky přehnaným obsahem, tak dokonale vystiženou formální neobratností (počáteční veršové schéma – šestiveršová stance francouzských trubadúrů a minstrelů – se brzy rozpadá, rýmy i verše začínají kulhat) zesměšňuje básník literární formu, která ztrácela spojení se skutečností a v ústech lidu zněla cize a komicky. Na některých místech lze v Chaucerově parodii nalézt téměř doslovné citace z jednotlivých soudobých děl tohoto druhu.
 
-  
+</section>
+
+<section>
 
 _Skoro jak já má pěknou postavu_ – zřejmě ironické; jak hostinský podle popisu v prologu, tak Chaucer sám podle dochovaných pramenů byli mužové statní a objemní.
 
@@ -267,13 +288,17 @@ _Bludný rytíř_ – rytíř, který z touhy po dobrodružství a prokazování
 
 Zdlouhavý příběh o Melibeovi a Prudencii není původním dílem Chaucerovým, jde o překlad dobové francouzské povídky. Vkládá-li jej autor „Canterburských povídek“ do úst sám sobě, je to jistě mnohem spíše rysem sebeironie, projevené už v úvodu parodie o panu Thopasovi, než známkou ocenění vypravované historky. Ta se objevuje v nejzralejším básníkově díle, jehož úrovně nedosahuje ani svým duchem, ani zpracováním, pravděpodobně jen proto, aby byl zastoupen tehdy rozšířený literární žánr. Tyto důvody a rozvleklost vyprávění – zaujalo by na padesát stran našeho textu – vedly k tomu, že nebylo do našeho vydání zařazeno.
 
-  
+</section>
+
+<section>
 
 ### Vyprávění mnichovo
 
 Většinu mnichových „tragédií“, které se opírají o příběhy z řeckého bájesloví nebo z bible, čerpal Chaucer z latinského díla Boccacciova „De casibus virorum et feminarum illustrium“ (O případech slavných mužů a žen).
 
-  
+</section>
+
+<section>
 
 Osmiřádková stance, použitá básníkem ve vyprávění mnichově, se jinde v tehdejší literatuře nevyskytuje; zdá se tedy, že je jeho vlastním výtvorem.
 
@@ -317,7 +342,9 @@ _Ugolino, hrabě pisánský_ – přejato vyprávění zaznamenané Dantem v jeh
 
 Základní rysy této povídky lze najít už ve starofrancouzském „Roman de Renart“ (Román o ferinovi lišáku). Chaucer však námět zpracovává volně po svém.
 
-  
+</section>
+
+<section>
 
 _Zvon na svatém Pavlu_ – na chrámu sv. Pavla v Londýně.
 
@@ -347,7 +374,9 @@ _Z Portugal barvy_ – z Portugalska se dováželo červené barvivo rostlinnéh
 
 Povídkou kněze jeptišek končí druhý fragment celkového díla, dokončený autorem. Vyprávěním doktorovým začíná fragment třetí bez obvyklého spojovacího textu.
 
-  
+</section>
+
+<section>
 
 Zákiad příběhu pochází od římského historika Tita Livia z doby kolem Kristova narození, na něhož se také Chaucer odvolává, i když nečerpal z Livia přímo, nýbrž prostřednictvím rozmělněných středověkých zpracování.
 
@@ -357,7 +386,9 @@ Doktorova povídka není ani těsněji spjata se svým vypravěčem, ani neukazu
 
 Přesný původ vyprávění není znám. Jeho jádro se objevuje v předchaucerovských italských pramenech, je však ještě mnohem staršího, orientálního původu. Zmínka o moru je odrazem velké morové rány, která postihla Anglii za Chaucerova života. Pro ostré básníkovo vidění současných typů, jako je satirizovaný odporný odpustkář, je důležitý zejména úvod k této povídce.
 
-  
+</section>
+
+<section>
 
 _Bula_ – listina potvrzená papežem, zde zřejmě koncese k prodeji odpustků.
 
@@ -387,7 +418,9 @@ _Svatá Helena, co našla kříž_ – podle legendy sv. Helena, matka východo�
 
 Vlastní povídka se pravděpodobně opírá o látku severofrancouzskou, přesněji bretoňskou. Hlavní pozornost však zde přitahuje Chaucerovo charakterizační umění k rozměrnému svéživotopisnému úvodu čacké soukenice.
 
-  
+</section>
+
+<section>
 
 _V Káni v Galileji_ – v tomto městečku v Palestině provedl podle biblických evangelií Kristus svůj první zázrak, když na svatbě proměnil vodu ve víno.
 
@@ -441,7 +474,9 @@ _Shrň záclonu_ – staré manželské postele byly uprostřed rozděleny zácl
 
 Původ nezjištěn. Důležité je, že spolu s následující povídkou půhončího ostře vyjadřuje konkurenční zášť mezi žebravým fráterem a představitelem neřeholního církevního úřadu. Základ této nenávisti spočíval v právu žebravých mnichů vměšovat se v každé obci do záležitosti místních farářů, které zpravidla předčili svou lepší znalostí lidí a výřečností. To mělo ovšem svůj odraz ve vybraných oférách, milodarech apod. Nenávist se pak přenášela i na jiné představitele mimořádových církevních institucí. O úřadě biřicově a arciděkanově viz poznámky k Prologu.
 
-  
+</section>
+
+<section>
 
 _Zbrojnoš čilý_ – v originále „yeoman“. Viz poznámku v Prologu.
 
@@ -451,7 +486,9 @@ _Endorská kouzelnice a Samuel_ – narážka na starozákonní biblický příb
 
 Úvod, který zesměšňuje žebravé frátery, se opírá o starou francouzskou legendu. Jisté prvky vlastního vyprávění se objevují ve šprýmu ze začátku 13. století, který přeložil z vlámštiny do francouzštiny Jacques de Baiseux. Stejně jako u předešlé povídky je však lhostejné, na jakém základě Chaucerovo charakterizační umění rozvinulo realistický obraz středověkého života.
 
-  
+</section>
+
+<section>
 
 _A ne snad těm, kdo všechno zhltnou dravě_ – zde se projevuje konkurenční vztah mnichů ze starších, usedlých a zámožných řádů a fráterů z žebravých řeholí. Viz poznámky k mnichovi z Prologu.
 
@@ -479,7 +516,9 @@ _Elizeus a Eliáš_ – aby si dodaly vážnosti, odvozovaly žebravé řehole s
 
 Povídka půhončího uzavírá čtvrtý fragment, zanechaný Chaucerem. Pátý se otevírá úvodem k povídce studentově.
 
-  
+</section>
+
+<section>
 
 Jak se už v tomto úvodu naznačuje, je námět vyprávění čerpán z latinského zpracování Francesca Petrarcy, s nímž se Chaucer osobně v Padově setkal. Látku zpracoval v „Dekameronu“ také Boccaccio, o něhož se opíral ve své verzi Petrarca; oba však čerpali z původního lidového vyprávění. Chaucer volil pro svou verzi sedmiřádkovou stanci provensálského, jihofrancouzského původu.
 
@@ -491,7 +530,9 @@ _Hubeňour_ – podle staré francouzské povídky byl Hubeňour (v originále �
 
 Povídka pravděpodobně zpracovaná podle ztraceného francouzského fabliau (veršované obhroublé komické bajky) z 12. až 13. století. Její motivy se objevují i v pramenech italských ze 14. století. Svým vtipem, ironizujícím bohaté starce, kteří se žení s mladými ženami a nezůstávají za to bez trestu, je vyprávění pro Chaucera příznačné. Příběhy příbuzného rodu jsou však už v našem výboru zastoupeny ve verzích lépe odrážejících život Chaucerovy Anglie, takže jsme kupcovu povídku do tohoto vydání nezařadili.
 
-  
+</section>
+
+<section>
 
 Kupcovým vyprávěním se uzavírá pátý fragment básníkem plánovaného celku díla.
 
@@ -499,7 +540,9 @@ Kupcovým vyprávěním se uzavírá pátý fragment básníkem plánovaného ce
 
 Zahajuje po kratičkém úvodu šestý fragment. V celé předchaucerovské západní literatuře není stopy po původu tohoto vyprávění, zdá se tedy, že je Chaucer čerpal z orientálních pramenů, které pronikly na západ za křižáckých válek. Ve jménech jako _Kambinschán_ slyšíme ozvěnu jména Džingischána, zakladatele říše mongolské ve 12. století. Nalézáme zde i jiné rysy, odpovídající tehdejším znalostem Západu o asijských národech.
 
-  
+</section>
+
+<section>
 
 Nedokončenou povídku, přetíženou zdlouhavým vyprávěním o lásce sokola a sokolice, jsme do překladu nepojali.
 
@@ -507,7 +550,9 @@ Nedokončenou povídku, přetíženou zdlouhavým vyprávěním o lásce sokola 
 
 Zkazky starých Britů, prapůvodních obyvatel Anglie, se nezachovaly po dobytí ostrovní země Anglosasy přímo na anglické půdě, nýbrž pronikaly do Anglie přes moře ze severofrancouzské Bretaně, obývané keltským lidem, spřízněným s dávnými Brity. Dálo se to po podmanění Anglosasů francouzskými Normany v 11. století prostřednictvím francouzských překladů starých keltských námětů. Chaucer se pravděpodobně opíral též o zpracování Boccacciovo.
 
-  
+</section>
+
+<section>
 
 _Penmark_ – místo na západním pobřeží Bretaně.
 
@@ -537,7 +582,9 @@ _Sedm panen v Milétě_ – událost se uvádí ve spojitosti s vypleněním ře
 
 Po vyprávění statkářově, které uzavírá šestý fragment „Canterburských povídek“, zahajuje sedmý úryvek povídka jeptišky, která doprovázela abatyši.
 
-  
+</section>
+
+<section>
 
 Jde o legendu, kterou Chaucer zpracoval podle „Zlaté legendy“ (Legenda Aurea) Jakuba de Voragine, ve 13. století biskupa janovského, a jejíž původ sahá až do prvokřesťanských dob. Chaucer ji napsal už před započetím práce na „Canterburských povídkách“ pro jiný účel, ale vložil ji pak do úst jedné z osob svého vrcholného díla. Neupravil při tom dokonce ani různé obraty, jimiž se pisatel, muž (Evin syn), obrací na čtenáře, nikoliv vypravěčka na posluchače. Pro její středověce náboženský ráz, jehož ukázky jsou už v našem výboru zastoupeny, a protože nemá ony vlastnosti, pro něž Chaucera vydáváme, nebyla zařazena do tohoto vydání.
 
@@ -545,7 +592,9 @@ Jde o legendu, kterou Chaucer zpracoval podle „Zlaté legendy“ (Legenda Aure
 
 Podobně jako v jiných povídkách satirizuje Chaucer hvězdopravectví a vykladačství snů, bere si zde na mušku, pravděpodobně na základě ze života čerpané anekdoty, rozšířenou pavědu své doby – kejkle alchymistů. Zlatodějství dosáhlo v tehdejší Anglii takového rozsahu, že proti němu byl dokonce za vlády Jindřicha IV. začátkem 15. století vydán parlamentní zákaz.
 
-  
+</section>
+
+<section>
 
 V originále je sluha kanovníkův označen jako „yeoman“, viz k tomu heslo _Zbrojnoš_ k Prologu.
 
@@ -569,7 +618,9 @@ _Senior_ – rovněž středověká alchymistická kniha.
 
 Vyprávění sluhy kanovníkova uzavírá sedmý fragment „Canterburských povídek“. Osmý úryvek pak obsahuje pouze příběh kolejního správce.
 
-  
+</section>
+
+<section>
 
 Dějové jádro této povídky bylo zpracováno už antickými autory, jako římským básníkem Ovidiem v jeho „Proměnách“.
 
@@ -579,10 +630,14 @@ Do našeho vydání nebyl její překlad zařazen proto, že ani tento příběh
 
 Spolu se závěrem tvoří farářovo vyprávění devátý a poslední fragment, který básník z celku zamýšleného díla dokončil.
 
-  
+</section>
+
+<section>
 
 Je přirozené, že jsme nezařadili do tohoto vydání překlad zdlouhavého – zabral by na sto našich stránek – typicky středověkého traktátu bez umělecké ceny a že ani nepodáváme jeho podrobnější obsah. Je možno mít za to, že jde o doslovný překlad z dobové latinské církevní literatury, který byl vesnickému faráři vložen do úst z dřívější literární zásoby autorovy.
 
 ### Závěr
 
 Je možné, že v kajícném doslovu byl Chaucer poplaten středověkému zvyku, jsou však i okolnosti, vyplývající z bližšího rozboru textu, jež nevylučují, že kajícný závěr připojil básníkovým jménem teprve pozdější opisovač, který se zalekl „hříšné“ smělosti „Canterburských povídek“.
+
+</section>

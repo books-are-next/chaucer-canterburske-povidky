@@ -1,7 +1,10 @@
 ---
 title: Povídka půhončího
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Půhončí v třmenech vylít do vztyku,  
 > vztek rozklepal ho jako osiku  
@@ -77,7 +80,7 @@ subtitle: ''
 
 > A když tím skončil, tenhle šelma starý  
 > od lidí vybral příspěvky a dary,  
-> řek _qui cum patre_[\[14\]](../Text/canterburske_povidky_034.html#_ftn14) a už nečekal,  
+> řek _qui cum patre_[\[14\]](./resources/undefined) a už nečekal,  
 > sebral svůj tlumok a hned spěchal dál.  
 > S kovanou holí, s kutnou podkasanou  
 > vlez do všech domů, nic nenechal stranou,  
@@ -115,7 +118,7 @@ subtitle: ''
 > A hospodáře zastal v posteli,  
 > neboť byl právě vážně nemocen.
 
-> „Ó, _Deus hic_[\[15\]](../Text/canterburske_povidky_034.html#_ftn15), Tomáši, dobrý den,  
+> „Ó, _Deus hic_[\[15\]](./resources/undefined), Tomáši, dobrý den,  
 > můj příteli!“ řek fráter šveholící.  
 > „Bůh splať vám, Tomáši, zde na lavici  
 > jsem často sedával a jako pán  
@@ -195,7 +198,7 @@ subtitle: ''
 > „Však, mistře,“ řekla žena, „dřív než půjdu,  
 > co chcete jíst? Hned dám se do chystání.“
 
-> On na to: „_Je vous dis sans doute_[\[16\]](../Text/canterburske_povidky_034.html#_ftn16), má paní,  
+> On na to: „_Je vous dis sans doute_[\[16\]](./resources/undefined), má paní,  
 > z kapouna játra postačí mi třeba  
 > s krajíčkem bílým domácího chleba.  
 > Pečenou kančí hlavu též mám rád  
@@ -297,7 +300,7 @@ subtitle: ''
 > jak labutě, jsou jako láhve vína  
 > a pěkně umí uctít Hospodina,  
 > když za mrtvé čtou žalm, co napsal David,  
-> a začnou: ‚Škyt! _Cor meum eructavit!_[\[17\]](../Text/canterburske_povidky_034.html#_ftn17)‘  
+> a začnou: ‚Škyt! _Cor meum eructavit!_[\[17\]](./resources/undefined)‘  
 > Kdo čerpá hlouběj v Jeho slova studni  
 > než my, tak chudí, pokorní a cudní?  
 > A nejen sluchem — slovo je náš čin!  
@@ -446,7 +449,7 @@ subtitle: ''
 > Co na to dvořan odpověděl pak?  
 > Co spravil řečí, když mu synek pad!  
 > Neradno proto s velmoži si hrát;  
-> a proto kývni, zapěj _Placebo_[\[18\]](../Text/canterburske_povidky_034.html#_ftn18),  
+> a proto kývni, zapěj _Placebo_[\[18\]](./resources/undefined),  
 > ledaže chudák stál by před tebou,  
 > tomu si vyčti každý jeho hřích,  
 > ne pánu však, i kdyby peklo zdvih!
@@ -686,3 +689,5 @@ subtitle: ''
 > že nebláznil a nepošed ho čert.  
 > Tak nové šaty dostal panoš milý —  
 > a já už končím, už jsme skoro v cíli.
+
+</section>

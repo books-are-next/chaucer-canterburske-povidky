@@ -1,9 +1,10 @@
 ---
-title: |-
-  Povídka
-  rytířova
+title: Povídka rytířova
 subtitle: Začíná se část první
+contentType: prose
 ---
+
+<section>
 
 > Jak říkají nám staré báje už,  
 > žil vévoda kdys jménem Théseus;  
@@ -976,7 +977,7 @@ subtitle: Začíná se část první
 > vzhléd k nebesům, a cítě se už líp,  
 > pronesl jasně jako slavný slib:
 
-> „Ó ten bůh lásky! _Benedicite_[\[3\]](../Text/canterburske_povidky_034.html#_ftn3),  
+> „Ó ten bůh lásky! _Benedicite_[\[3\]](./resources/undefined),  
 > jak velký je a mocný, vidíte!  
 > Vzdorovat jemu nikdo neumí,  
 > pro zázraky své bohem zván být smí;  
@@ -1981,7 +1982,7 @@ subtitle: Začíná se část první
 > Hruď Arcitova otekla a pal  
 > se kolem srdce stále zvětšoval.  
 > Sražená krev přes felčarů všech um  
-> zůstala v těle jako _venenum_[\[4\]](../Text/canterburske_povidky_034.html#_ftn4)  
+> zůstala v těle jako _venenum_[\[4\]](./resources/undefined)  
 > a žilou pouštění ni pijavky ni nůž  
 > ni lektvary mu neprospěly už.  
 > Ni žádný dryák ni lék čistící,  
@@ -2361,3 +2362,5 @@ subtitle: Začíná se část první
 > nějakým žalem nebo žárlením.  
 > Tak ona skončila i její druh;  
 > a vzácní páni, nám požehnej Bůh!
+
+</section>

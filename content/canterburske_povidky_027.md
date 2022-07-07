@@ -1,7 +1,10 @@
 ---
 title: Povídka sluhy kanovníkova
 subtitle: Začíná se část první
+contentType: prose
 ---
+
+<section>
 
 > Když tento svatý příběh skončen byl  
 > a my ujeli nějakých pět mil,  
@@ -981,7 +984,7 @@ subtitle: Začíná se část první
 > „Vem kámen, který titan nazvaný je.“  
 > „Co je to?“ — „Totéž, co je magnézie,“  
 > řekl mu Plato. — „Hm,“ děl fámulus,  
-> „to je _ignotum per ignotius_[\[19\]](../Text/canterburske_povidky_034.html#_ftn19).  
+> „to je _ignotum per ignotius_[\[19\]](./resources/undefined).  
 > Co je to magnézie, smím se ptát?“  
 > „Toť voda, která musí sestávat  
 > z čtyř elementů,“ odpověděl Plato.  
@@ -1008,4 +1011,6 @@ subtitle: Začíná se část první
 > A tady taky končí příběh můj.  
 > Bůh všechny dobré lidi opatruj!
 
->                            AMEN
+>              AMEN
+
+</section>

@@ -1,7 +1,10 @@
 ---
 title: Prolog
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Když duben vniká v šumných přeprškách  
 > až do kořání pod březnový prach  
@@ -169,7 +172,7 @@ subtitle: ''
 > byl z korálků se zelenými zrnky  
 > a zlatou sponkou, na níž do korunky  
 > vyryto bylo nejdřív velké „_A_“  
-> a potom _Amor vincit omnia_[\[1\]](../Text/canterburske_povidky_034.html#_ftn1).  
+> a potom _Amor vincit omnia_[\[1\]](./resources/undefined).  
 > S ní byla ještě jedna KLÁŠTERNICE  
 > a její KAPLAN, kněz to, do třetice.
 
@@ -673,7 +676,7 @@ subtitle: ''
 > „hej“ stejně dobře jako papež z Říma.  
 > Když chtěl však někdo zkoušet, co v něm dřímá,  
 > hned se vší filosofií svou uvíz  
-> a křičel jenom: „_Quaestio quid juris!_“[\[2\]](../Text/canterburske_povidky_034.html#_ftn2)  
+> a křičel jenom: „_Quaestio quid juris!_“[\[2\]](./resources/undefined)  
 > Byl milý chlapík, dobrý kompaňon,  
 > půhončí nebyl lepší nežli on.  
 > Ba, odpouštíval za pozvání k vínu  
@@ -895,3 +898,5 @@ subtitle: ''
 > I vyjeli jsme dál se slovy těmi  
 > a on hned začal v dobré náladě  
 > tu povídku, co vám teď povím zde.
+
+</section>

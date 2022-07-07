@@ -1,11 +1,16 @@
 ---
 title: Povídka juristova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 má i s úvodem 1160 veršů v sedmiřádkových stancích téhož typu jako v našem výboru zahrnutá povídka studentova. V úvodním dialogu mezi hostinským a juristou se objevuje zmínka o některých starších dílech Chaucerových.
 
-  
+</section>
+
+<section>
 
 Jurista pak začal líčit osudy krásné a ctnostné křesťanky Konstance, dcery císaře římského. Kupci ze Sýrie, kteří ji v Římě poznali, vyprávěli o ní svému sultánu. Ten po ní zatoužil a přijal i se svým dvorem křesťanství, aby se s ní mohl oženit. Jeho matka však pomstila potupu mohamedánské víry a po příjezdu nevěsty do Sýrie dala pobít její průvod i všechny syrské pokřestěnce, včetně svého syna.
 
@@ -22,3 +27,5 @@ Král se vrátil z války, vyšetřil, co se stalo, a zabil podvodnou matku. Kon
 Zároveň dorazil do Říma král Alla, aby se kál ze zabití své zlé matky. Senátor, který zachránil Konstanci, mu vyjel vstříc a vzal s sebou v průvodu i malého Mauricia. Podle podoby poznal v něm král své dítě a brzy se tak setkal i se ženou. Na její žádost pozval do svého římského domu na návštěvu císaře, jenž tak našel dávno oplakanou dceru.
 
 Konstance pak žila šťastně se svým mužem v jeho království. Když zemřel, vrátila se do Říma, kde se její syn stal později císařem, a ona v míru dožila svůj život, plný dobrodružství.
+
+</section>

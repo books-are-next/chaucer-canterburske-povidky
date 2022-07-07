@@ -1,7 +1,10 @@
 ---
 title: Povídka kněze jeptišek
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > „Dost!“ vykřik rytíř. „Dost těch historek!  
 > Už stačí, pane, to, co jste tu řek,  
@@ -420,8 +423,8 @@ subtitle: ''
 > když vaši krásu zřím, já z pohledu  
 > na šarlat kolem vašich očiček  
 > hned zapomínám, proč jsem se tak lek;  
-> vždyť, jako bylo už _in principio_[\[9\]](../Text/canterburske_povidky_034.html#_ftn9)_,  
-> mulier est hominis confusio_[\[10\]](../Text/canterburske_povidky_034.html#_ftn10).  
+> vždyť, jako bylo už _in principio_[\[9\]](./resources/undefined)_,  
+> mulier est hominis confusio_[\[10\]](./resources/undefined).  
 > (Má latina má smysl ten, má paní,  
 > že žena mužovo je požehnání!)  
 > Když v noci cítím útlounký váš bok,  
@@ -740,3 +743,5 @@ subtitle: ''
 
 > A vesele pak dalšího si všim,  
 > jak vám to tady ihned vypovím.
+
+</section>

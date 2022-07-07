@@ -1,7 +1,10 @@
 ---
 title: Povídka studentova
 subtitle: Začíná se část první
+contentType: prose
 ---
+
+<section>
 
 > „Vy, pane žáku,“ hostinský náš praví,  
 > „jedete tiše, plachý, ostýchavý,  
@@ -1393,3 +1396,5 @@ subtitle: Začíná se část první
 > a přítel tvůj to činem ocení.  
 > Leť jako list, jejž větry rozchvějí,  
 > kverulant muž ať kňučí v kvílení!
+
+</section>

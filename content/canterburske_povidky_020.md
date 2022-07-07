@@ -1,9 +1,10 @@
 ---
-title: |-
-  Povídka
-  fráterova
+title: Povídka fráterova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Ctný kazatel, já toho frátra mním,  
 > se zlostným stále zíral vzezřením  
@@ -138,7 +139,7 @@ subtitle: ''
 > „Pozdrav tě!“ biřic uvítal se s ním,  
 > „rád tě tu vidím!“
 
->                                  Dík za poctu tvou,  
+>              Dík za poctu tvou,  
 > js-li co k čemu. Kam tou doubravou?“  
 > řek na to zbrojnoš. „Jedeš do daleka?“
 
@@ -147,7 +148,7 @@ subtitle: ''
 > vyzdvihnout jednu splátku svému pánu  
 > na jeho důchod.“
 
->                                 „To jsi výběrčím?“
+>              „To jsi výběrčím?“
 
 > Půhončí řekl: „A to jsem, jak dím!“  
 > nechtěje v studu za špinavé slovo  
@@ -162,7 +163,7 @@ subtitle: ''
 > a do našeho hrabství přijdeš-li,  
 > můžeš si nabrat plných přehršlí!“
 
-> „_Grand merci,_[\[12\]](../Text/canterburske_povidky_034.html#_ftn12)“ biřic děl, „to se mi líbí!“
+> „_Grand merci,_[\[12\]](./resources/undefined)“ biřic děl, „to se mi líbí!“
 
 > Tak navzájem si vyměnili sliby  
 > až do smrti být bratry neustále,  
@@ -281,7 +282,7 @@ subtitle: ''
 > „To nová těla děláte si zas  
 > vždy z nové látky?“
 
->                                      „Ne!“ řek na to ďas.  
+>              „Ne!“ řek na to ďas.  
 > „Někdy jsme přelud, jindy zase kouzly  
 > jsme v mrtvá těla pro své cíle vklouzli  
 > a moudrá slova umíme pak říci  
@@ -293,7 +294,7 @@ subtitle: ''
 > už brzy přijdeš, brachu, do těch míst,  
 > kde bez otázek vším si budeš jist,  
 > kde zkušenost tak lehne na tvá bedra,  
-> že budeš moci čísti _ex cathedra_[\[13\]](../Text/canterburske_povidky_034.html#_ftn13)  
+> že budeš moci čísti _ex cathedra_[\[13\]](./resources/undefined)  
 > líp nežli Virgil, dokud básníval,  
 > a líp než Dante. Teď však jeďme dál!  
 > Pojedu s tebou, chci ti zůstat blíž  
@@ -393,7 +394,7 @@ subtitle: ''
 > Pojď ven a dělej, honem, pospíchám,  
 > dej dvanáct grošů, nemám čas už!“
 
->                                                                     „Já  
+>                          „Já  
 > dát dvanáct grošů! Panno Maria,  
 > hříchu mě chraň! To bude po mně veta!  
 > I za poklady celičkého světa  
@@ -401,7 +402,7 @@ subtitle: ''
 > Jsem, víte, člověk chudobný a starý.  
 > Ó smilujte se nad bídnou!“
 
->                                                   „Ne! Ďas  
+>                          „Ne! Ďas  
 > ať vezme si mě zcela na pospas,  
 > jestli tě pustím, ať jsi ruina!“
 
@@ -467,3 +468,5 @@ subtitle: ''
 > v níž budete mít Krista za rytíře.  
 > A proste jej, by půhončí měl čas  
 > káti se z hříchů, než ho vezme ďas!
+
+</section>

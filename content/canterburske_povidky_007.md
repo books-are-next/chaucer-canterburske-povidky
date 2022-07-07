@@ -1,7 +1,10 @@
 ---
 title: Povídka mlynářova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Když rytíř skončil, nikdo nebyl tady  
 > v té společnosti, starý ani mladý,  
@@ -814,3 +817,5 @@ subtitle: ''
 > Absolón zlíbal její zadní líc;  
 > a na zadku byl spálen Mikuláš.  
 > Je konec. Spas nás všechny Pánbůh náš!
+
+</section>

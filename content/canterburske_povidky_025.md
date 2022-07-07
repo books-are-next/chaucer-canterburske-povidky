@@ -1,7 +1,10 @@
 ---
 title: Povídka statkářova
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Šlechetný lid ve staré Bretani  
 > znal mnohá dobrodružná skládání,  
@@ -1003,3 +1006,5 @@ subtitle: ''
 > než dál se hneme, rcete mi své zdání,  
 > kdo nejvíce vás dojal šlechetností?  
 > Povídka končí, já jsem řekl dosti.
+
+</section>

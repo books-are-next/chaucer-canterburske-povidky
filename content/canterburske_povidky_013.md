@@ -1,7 +1,10 @@
 ---
 title: Skládání o panu Thopasovi
 subtitle: I
+contentType: prose
 ---
+
+<section>
 
 > Po divuplné této historce  
 > zavládlo ticho divně pochmurné,  
@@ -114,14 +117,14 @@ subtitle: I
 > „Ó, proč jen, Panno Marie,  
 > tak do srdce se zaryje  
 >              cit, jenž mě umučí?  
-> Dnes v noci snil jsem, _pardieu_[\[8\]](../Text/canterburske_povidky_034.html#_ftn8),  
+> Dnes v noci snil jsem, _pardieu_[\[8\]](./resources/undefined),  
 > královna víl že se mnou je  
 >              a spí mi v náručí.
 
 > Královny víl chci dosáhnout,  
 > neb není v tomto světě kout  
 >              se ženou hodnou mne  
->                                        zde kol;  
+>              zde kol;  
 > ostatní jsou mi lhostejné,  
 > má vílo, k tobě jdu, můj sne,  
 >              přes pohoří i dol!“
@@ -132,7 +135,7 @@ subtitle: I
 > a tak jel stále dál a dál,  
 > až nalezl a šturmem vzal  
 >              tajemnou zemi víl  
->                                  tak lítě,  
+>              tak lítě,  
 > že nikdo ani opodál  
 > si k němu přijít netroufal,  
 >              ni žena, ani dítě.
@@ -143,7 +146,7 @@ subtitle: I
 > „Při Termagantu, šlechtici,  
 > zmiz,“ zařval, „za svou hranici,  
 >              sic pocítí tvůj oř  
->                           můj mlat!  
+>              můj mlat!  
 > Královna víl tu má svůj trůn  
 > a od pištců za zvuku strun  
 >              si tady nechá hrát.“
@@ -154,7 +157,7 @@ subtitle: I
 > A pevně doufám ve svou mstu,  
 > mým kopím vezmeš odplatu  
 >              v krvavém zranění;  
->                                tvůj břich  
+>              tvůj břich  
 > provrtám v prvním úsvitu;  
 > jestli tě zmohu, budeš tu  
 >              mřít v mukách krvavých!“
@@ -228,7 +231,7 @@ subtitle: I
 > Sed na grošáka, jenž, když stoup,  
 > se párkrát pohodlně zhoup,  
 >              a v mírném poklusu  
->                                   jel vpřed.  
+>              jel vpřed.  
 > Zde, páni, končí odstavec!  
 > Chcete-li slyšet dál tu věc,  
 > mohu vám sloužit hned.
@@ -284,3 +287,5 @@ subtitle: I
 > ty tvoje rýmy nejsou nic než drek!  
 > Zbytečně s tím jen utrácíme čas.  
 > A proto říkám krátce, ušetř nás!“
+
+</section>

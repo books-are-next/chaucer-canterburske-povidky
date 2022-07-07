@@ -1,7 +1,10 @@
 ---
 title: Povídka ženy z Bathu
 subtitle: ''
+contentType: prose
 ---
+
+<section>
 
 > Má zkušenost, ne řada citátů  
 > ze slavných knih, mně možnost skýtá tu  
@@ -1387,3 +1390,5 @@ subtitle: ''
 > tomu, kdo nechce ženu poslouchati;  
 > a na mrzuté dědky, na držgrešle,  
 > ať brzy ránu morovou svou sešle!
+
+</section>
