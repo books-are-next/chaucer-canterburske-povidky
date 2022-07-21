@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "chaucer-canterburske-povidky-4900308",
-  "revision": "4900308",
+  "identifier": "chaucer-canterburske-povidky-ce84d38",
+  "revision": "ce84d38",
   "readingOrder": [
     "promo.html",
     "canterburske_povidky_002.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 12:08:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657195695418
+    "date": "Thu Jul 21 2022 14:30:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658413840799
   },
   "documents": [
     {
@@ -707,7 +707,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 921,
+      "chars": 922,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -727,7 +727,7 @@
   "totals": {
     "all": {
       "words": 96000,
-      "chars": 530653,
+      "chars": 530654,
       "ideas": 13214
     },
     "chapters": {
