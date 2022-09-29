@@ -478,7 +478,7 @@ contentType: prose
 > a netušila, jaká přišla mela.  
 > A teď ji ze sna zburcoval ten pád.  
 > „Můj křížku z Bromholmu!“ se jala řvát,  
-> „_In manus tuas_[\[5\]](./resources/undefined), Pane, tady straší!  
+> „_In manus tuas_[^5], Pane, tady straší!  
 > Šimone, vzbuď se, jsou tu satanáši!  
 > Je po mně! Au! Pro Krista Ježíše,  
 > na hlavě leží mi a na břiše!  

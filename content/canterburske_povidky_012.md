@@ -101,7 +101,7 @@ contentType: prose
 > Ten hošík seděl nad svou školní prací  
 > a ve škamně se učil v slabikáři  
 > a poslouchal, jak pějí starší žáci,  
-> jak se jim _Alma redemptoris_[\[7\]](./resources/undefined) daří;  
+> jak se jim _Alma redemptoris_[^7] daří;  
 > a jak jen mohl, přitočil se tváří  
 > a psal si slova, učil se je pěti,  
 > až první verš znal celý po paměti.

@@ -11,7 +11,7 @@ contentType: prose
 > i hlaholím a jako zvon chci znět  
 > a to, co kážu, znám už nazpaměť.  
 > Mám jedno téma, vždycky zas a zas:  
-> _Radix malorum est cupiditas_[\[11\]](./resources/undefined).
+> _Radix malorum est cupiditas_[^11].
 
 > Nejprve řeknu, odkud právě jdu,  
 > pak veškeré své buly předvedu,  

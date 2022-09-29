@@ -117,7 +117,7 @@ contentType: prose
 > „Ó, proč jen, Panno Marie,  
 > tak do srdce se zaryje  
 >              cit, jenž mě umučí?  
-> Dnes v noci snil jsem, _pardieu_[\[8\]](./resources/undefined),  
+> Dnes v noci snil jsem, _pardieu_[^8],  
 > královna víl že se mnou je  
 >              a spí mi v náručí.
 

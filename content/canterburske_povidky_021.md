@@ -80,7 +80,7 @@ contentType: prose
 
 > A když tím skončil, tenhle šelma starý  
 > od lidí vybral příspěvky a dary,  
-> řek _qui cum patre_[\[14\]](./resources/undefined) a už nečekal,  
+> řek _qui cum patre_[^14] a už nečekal,  
 > sebral svůj tlumok a hned spěchal dál.  
 > S kovanou holí, s kutnou podkasanou  
 > vlez do všech domů, nic nenechal stranou,  
@@ -118,7 +118,7 @@ contentType: prose
 > A hospodáře zastal v posteli,  
 > neboť byl právě vážně nemocen.
 
-> „Ó, _Deus hic_[\[15\]](./resources/undefined), Tomáši, dobrý den,  
+> „Ó, _Deus hic_[^15], Tomáši, dobrý den,  
 > můj příteli!“ řek fráter šveholící.  
 > „Bůh splať vám, Tomáši, zde na lavici  
 > jsem často sedával a jako pán  
@@ -198,7 +198,7 @@ contentType: prose
 > „Však, mistře,“ řekla žena, „dřív než půjdu,  
 > co chcete jíst? Hned dám se do chystání.“
 
-> On na to: „_Je vous dis sans doute_[\[16\]](./resources/undefined), má paní,  
+> On na to: „_Je vous dis sans doute_[^16], má paní,  
 > z kapouna játra postačí mi třeba  
 > s krajíčkem bílým domácího chleba.  
 > Pečenou kančí hlavu též mám rád  
@@ -300,7 +300,7 @@ contentType: prose
 > jak labutě, jsou jako láhve vína  
 > a pěkně umí uctít Hospodina,  
 > když za mrtvé čtou žalm, co napsal David,  
-> a začnou: ‚Škyt! _Cor meum eructavit!_[\[17\]](./resources/undefined)‘  
+> a začnou: ‚Škyt! _Cor meum eructavit!_[^17]‘  
 > Kdo čerpá hlouběj v Jeho slova studni  
 > než my, tak chudí, pokorní a cudní?  
 > A nejen sluchem — slovo je náš čin!  
@@ -449,7 +449,7 @@ contentType: prose
 > Co na to dvořan odpověděl pak?  
 > Co spravil řečí, když mu synek pad!  
 > Neradno proto s velmoži si hrát;  
-> a proto kývni, zapěj _Placebo_[\[18\]](./resources/undefined),  
+> a proto kývni, zapěj _Placebo_[^18],  
 > ledaže chudák stál by před tebou,  
 > tomu si vyčti každý jeho hřích,  
 > ne pánu však, i kdyby peklo zdvih!

@@ -984,7 +984,7 @@ contentType: prose
 > „Vem kámen, který titan nazvaný je.“  
 > „Co je to?“ — „Totéž, co je magnézie,“  
 > řekl mu Plato. — „Hm,“ děl fámulus,  
-> „to je _ignotum per ignotius_[\[19\]](./resources/undefined).  
+> „to je _ignotum per ignotius_[^19].  
 > Co je to magnézie, smím se ptát?“  
 > „Toť voda, která musí sestávat  
 > z čtyř elementů,“ odpověděl Plato.  
