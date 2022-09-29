@@ -423,8 +423,8 @@ contentType: prose
 > když vaši krásu zřím, já z pohledu  
 > na šarlat kolem vašich očiček  
 > hned zapomínám, proč jsem se tak lek;  
-> vždyť, jako bylo už _in principio_[\[9\]](./resources/undefined)_,  
-> mulier est hominis confusio_[\[10\]](./resources/undefined).  
+> vždyť, jako bylo už _in principio_[^9]_,  
+> mulier est hominis confusio_[^10].  
 > (Má latina má smysl ten, má paní,  
 > že žena mužovo je požehnání!)  
 > Když v noci cítím útlounký váš bok,  

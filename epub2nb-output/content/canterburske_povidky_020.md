@@ -163,7 +163,7 @@ contentType: prose
 > a do našeho hrabství přijdeš-li,  
 > můžeš si nabrat plných přehršlí!“
 
-> „_Grand merci,_[\[12\]](./resources/undefined)“ biřic děl, „to se mi líbí!“
+> „_Grand merci,_[^12]“ biřic děl, „to se mi líbí!“
 
 > Tak navzájem si vyměnili sliby  
 > až do smrti být bratry neustále,  
@@ -294,7 +294,7 @@ contentType: prose
 > už brzy přijdeš, brachu, do těch míst,  
 > kde bez otázek vším si budeš jist,  
 > kde zkušenost tak lehne na tvá bedra,  
-> že budeš moci čísti _ex cathedra_[\[13\]](./resources/undefined)  
+> že budeš moci čísti _ex cathedra_[^13]  
 > líp nežli Virgil, dokud básníval,  
 > a líp než Dante. Teď však jeďme dál!  
 > Pojedu s tebou, chci ti zůstat blíž  

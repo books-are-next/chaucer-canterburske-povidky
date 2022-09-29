@@ -269,7 +269,7 @@ contentType: prose
 > a připraví vše mužům ke snídani.  
 > Pak za manželem šla ta pěkná paní  
 > a na kontoár směle buchy buch.  
-> „_Qui est là?_[\[6\]](./resources/undefined)“ ptal se — „To jsem já, ví Bůh!  
+> „_Qui est là?_[^6]“ ptal se — „To jsem já, ví Bůh!  
 > Jak dlouho ještě trvat má ten půst?  
 > Nestačí vám už vašich číslic růst  
 > a kramaření v měšcích s dukáty?  

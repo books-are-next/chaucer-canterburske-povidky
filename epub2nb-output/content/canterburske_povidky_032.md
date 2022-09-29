@@ -6,7 +6,7 @@ contentType: prose
 
 <section>
 
-Vysvětlivky jsou uspořádány jednak podle stránek textu po jednotlivých povídkách, jednak abecedně v rejstříku. Podle stránek jsou seřazeny poznámky vztahující se zejména k určitému místu textu překladu, v abecedním rejstříku jsou zachyceny jména a pojmy, které se častěji opakují, nebo ty, které nejsou nezbytně spojeny s formulací celého verše či veršové pasáže.[\[21\]](./resources/undefined)
+Vysvětlivky jsou uspořádány jednak podle stránek textu po jednotlivých povídkách, jednak abecedně v rejstříku. Podle stránek jsou seřazeny poznámky vztahující se zejména k určitému místu textu překladu, v abecedním rejstříku jsou zachyceny jména a pojmy, které se častěji opakují, nebo ty, které nejsou nezbytně spojeny s formulací celého verše či veršové pasáže.[^21]
 
 </section>
 

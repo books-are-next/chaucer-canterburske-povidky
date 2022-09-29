@@ -977,7 +977,7 @@ contentType: prose
 > vzhléd k nebesům, a cítě se už líp,  
 > pronesl jasně jako slavný slib:
 
-> „Ó ten bůh lásky! _Benedicite_[\[3\]](./resources/undefined),  
+> „Ó ten bůh lásky! _Benedicite_[^3],  
 > jak velký je a mocný, vidíte!  
 > Vzdorovat jemu nikdo neumí,  
 > pro zázraky své bohem zván být smí;  
@@ -1982,7 +1982,7 @@ contentType: prose
 > Hruď Arcitova otekla a pal  
 > se kolem srdce stále zvětšoval.  
 > Sražená krev přes felčarů všech um  
-> zůstala v těle jako _venenum_[\[4\]](./resources/undefined)  
+> zůstala v těle jako _venenum_[^4]  
 > a žilou pouštění ni pijavky ni nůž  
 > ni lektvary mu neprospěly už.  
 > Ni žádný dryák ni lék čistící,  
