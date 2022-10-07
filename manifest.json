@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "chaucer-canterburske-povidky-322b578",
-  "revision": "322b578",
+  "identifier": "chaucer-canterburske-povidky-4b03b2d",
+  "revision": "4b03b2d",
   "readingOrder": [
     "promo.html",
     "canterburske_povidky_002.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:48:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923720583
+    "date": "Fri Oct 07 2022 14:09:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151794274
   },
   "documents": [
     {
