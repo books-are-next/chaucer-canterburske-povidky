@@ -30,7 +30,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^19]: Vysvětlování neznámého pojmu ještě méně známým. _Pozn. překl._  
 [^20]: Doslov je obsažen v knižním vydání titulu, vzhledem k licenčním omezením nemohl být převzat do e-knihy. _Pozn. red._  
 [^21]: V zájmu srozumitelnosti textu a současně plynulosti četby jsou vysvětlivky cizojazyčných (většinou latinských) výrazů připojeny přímo k místu použití těchto slov či úsloví. _Pozn. red._  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 21. 10. 2022.
 
 ***
 
