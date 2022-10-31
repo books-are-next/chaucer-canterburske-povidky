@@ -4,19 +4,17 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Canterburské povídky
   identifier: 8469d747-ec10-4d22-b15b-9aa21b679476
   author: Geoffrey Chaucer
   publisher: Městská knihovna v Praze
   modified: '2021-10-29T12:57:54.892Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
   contentType: prose
 readingOrder:
   - promo.html
-  - canterburske_povidky_002.html
-  - canterburske_povidky_003.html
   - canterburske_povidky_005.html
   - canterburske_povidky_006.html
   - canterburske_povidky_007.html
@@ -114,7 +112,9 @@ tocBase:
           - link: canterburske_povidky_034.html
             title: Poznámky pod čarou
         isSection: true
+        listType: plain
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
