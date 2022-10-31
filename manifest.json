@@ -8,12 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "chaucer-canterburske-povidky-16d0bac",
-  "revision": "16d0bac",
+  "identifier": "chaucer-canterburske-povidky-ed5ccfd",
+  "revision": "ed5ccfd",
   "readingOrder": [
     "promo.html",
-    "canterburske_povidky_002.html",
-    "canterburske_povidky_003.html",
     "canterburske_povidky_005.html",
     "canterburske_povidky_006.html",
     "canterburske_povidky_007.html",
@@ -47,8 +45,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 11:31:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666351901174
+    "date": "Mon Oct 31 2022 21:33:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1667252028648
   },
   "documents": [
     {
@@ -60,48 +58,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "canterburske_povidky_002.html",
-      "toc": []
-    },
-    {
-      "title": "Canterburské povídky",
-      "file": "canterburske_povidky_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "canterburske_povidky_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Canterburské povídky",
-      "file": "canterburske_povidky_003.html",
-      "words": 7,
-      "chars": 59,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "canterburske_povidky_002.html",
       "next": "canterburske_povidky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Prolog",
@@ -110,8 +68,8 @@
       "chars": 29021,
       "ideas": 863,
       "role": "chapter",
-      "order": 3,
-      "prev": "canterburske_povidky_003.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "canterburske_povidky_006.html",
       "toc": [
         {
@@ -130,7 +88,7 @@
       "chars": 73049,
       "ideas": 2255,
       "role": "chapter",
-      "order": 4,
+      "order": 2,
       "prev": "canterburske_povidky_005.html",
       "next": "canterburske_povidky_007.html",
       "toc": [
@@ -150,7 +108,7 @@
       "chars": 24707,
       "ideas": 747,
       "role": "chapter",
-      "order": 5,
+      "order": 3,
       "prev": "canterburske_povidky_006.html",
       "next": "canterburske_povidky_008.html",
       "toc": [
@@ -170,7 +128,7 @@
       "chars": 15573,
       "ideas": 472,
       "role": "chapter",
-      "order": 6,
+      "order": 4,
       "prev": "canterburske_povidky_007.html",
       "next": "canterburske_povidky_009.html",
       "toc": [
@@ -190,7 +148,7 @@
       "chars": 292,
       "ideas": 3,
       "role": "chapter",
-      "order": 7,
+      "order": 5,
       "prev": "canterburske_povidky_008.html",
       "next": "canterburske_povidky_010.html",
       "toc": [
@@ -210,7 +168,7 @@
       "chars": 2909,
       "ideas": 10,
       "role": "chapter",
-      "order": 8,
+      "order": 6,
       "prev": "canterburske_povidky_009.html",
       "next": "canterburske_povidky_011.html",
       "toc": [
@@ -230,7 +188,7 @@
       "chars": 15555,
       "ideas": 465,
       "role": "chapter",
-      "order": 9,
+      "order": 7,
       "prev": "canterburske_povidky_010.html",
       "next": "canterburske_povidky_012.html",
       "toc": [
@@ -250,7 +208,7 @@
       "chars": 8708,
       "ideas": 259,
       "role": "chapter",
-      "order": 10,
+      "order": 8,
       "prev": "canterburske_povidky_011.html",
       "next": "canterburske_povidky_013.html",
       "toc": [
@@ -270,7 +228,7 @@
       "chars": 6122,
       "ideas": 245,
       "role": "chapter",
-      "order": 11,
+      "order": 9,
       "prev": "canterburske_povidky_012.html",
       "next": "canterburske_povidky_014.html",
       "toc": [
@@ -290,7 +248,7 @@
       "chars": 1425,
       "ideas": 6,
       "role": "chapter",
-      "order": 12,
+      "order": 10,
       "prev": "canterburske_povidky_013.html",
       "next": "canterburske_povidky_015.html",
       "toc": [
@@ -310,7 +268,7 @@
       "chars": 16611,
       "ideas": 510,
       "role": "chapter",
-      "order": 13,
+      "order": 11,
       "prev": "canterburske_povidky_014.html",
       "next": "canterburske_povidky_016.html",
       "toc": [
@@ -330,7 +288,7 @@
       "chars": 23818,
       "ideas": 701,
       "role": "chapter",
-      "order": 14,
+      "order": 12,
       "prev": "canterburske_povidky_015.html",
       "next": "canterburske_povidky_017.html",
       "toc": [
@@ -350,7 +308,7 @@
       "chars": 1777,
       "ideas": 9,
       "role": "chapter",
-      "order": 15,
+      "order": 13,
       "prev": "canterburske_povidky_016.html",
       "next": "canterburske_povidky_018.html",
       "toc": [
@@ -370,7 +328,7 @@
       "chars": 21529,
       "ideas": 642,
       "role": "chapter",
-      "order": 16,
+      "order": 14,
       "prev": "canterburske_povidky_017.html",
       "next": "canterburske_povidky_019.html",
       "toc": [
@@ -390,7 +348,7 @@
       "chars": 43075,
       "ideas": 1271,
       "role": "chapter",
-      "order": 17,
+      "order": 15,
       "prev": "canterburske_povidky_018.html",
       "next": "canterburske_povidky_020.html",
       "toc": [
@@ -410,7 +368,7 @@
       "chars": 13660,
       "ideas": 408,
       "role": "chapter",
-      "order": 18,
+      "order": 16,
       "prev": "canterburske_povidky_019.html",
       "next": "canterburske_povidky_021.html",
       "toc": [
@@ -430,7 +388,7 @@
       "chars": 21631,
       "ideas": 633,
       "role": "chapter",
-      "order": 19,
+      "order": 17,
       "prev": "canterburske_povidky_020.html",
       "next": "canterburske_povidky_022.html",
       "toc": [
@@ -450,7 +408,7 @@
       "chars": 40590,
       "ideas": 1215,
       "role": "chapter",
-      "order": 20,
+      "order": 18,
       "prev": "canterburske_povidky_021.html",
       "next": "canterburske_povidky_023.html",
       "toc": [
@@ -470,7 +428,7 @@
       "chars": 4414,
       "ideas": 17,
       "role": "chapter",
-      "order": 21,
+      "order": 19,
       "prev": "canterburske_povidky_022.html",
       "next": "canterburske_povidky_024.html",
       "toc": [
@@ -490,7 +448,7 @@
       "chars": 2081,
       "ideas": 9,
       "role": "chapter",
-      "order": 22,
+      "order": 20,
       "prev": "canterburske_povidky_023.html",
       "next": "canterburske_povidky_025.html",
       "toc": [
@@ -510,7 +468,7 @@
       "chars": 30128,
       "ideas": 917,
       "role": "chapter",
-      "order": 23,
+      "order": 21,
       "prev": "canterburske_povidky_024.html",
       "next": "canterburske_povidky_026.html",
       "toc": [
@@ -530,7 +488,7 @@
       "chars": 2756,
       "ideas": 10,
       "role": "chapter",
-      "order": 24,
+      "order": 22,
       "prev": "canterburske_povidky_025.html",
       "next": "canterburske_povidky_027.html",
       "toc": [
@@ -550,7 +508,7 @@
       "chars": 30904,
       "ideas": 932,
       "role": "chapter",
-      "order": 25,
+      "order": 23,
       "prev": "canterburske_povidky_026.html",
       "next": "canterburske_povidky_028.html",
       "toc": [
@@ -570,7 +528,7 @@
       "chars": 1980,
       "ideas": 9,
       "role": "chapter",
-      "order": 26,
+      "order": 24,
       "prev": "canterburske_povidky_027.html",
       "next": "canterburske_povidky_029.html",
       "toc": [
@@ -590,7 +548,7 @@
       "chars": 985,
       "ideas": 3,
       "role": "chapter",
-      "order": 27,
+      "order": 25,
       "prev": "canterburske_povidky_028.html",
       "next": "canterburske_povidky_030.html",
       "toc": [
@@ -610,7 +568,7 @@
       "chars": 253,
       "ideas": 2,
       "role": "chapter",
-      "order": 28,
+      "order": 26,
       "prev": "canterburske_povidky_029.html",
       "next": "canterburske_povidky_031.html",
       "toc": [
@@ -630,7 +588,7 @@
       "chars": 3750,
       "ideas": 9,
       "role": "chapter",
-      "order": 29,
+      "order": 27,
       "prev": "canterburske_povidky_030.html",
       "next": "canterburske_povidky_032.html",
       "toc": [
@@ -650,7 +608,7 @@
       "chars": 52848,
       "ideas": 269,
       "role": "chapter",
-      "order": 30,
+      "order": 28,
       "prev": "canterburske_povidky_031.html",
       "next": "canterburske_povidky_033.html",
       "toc": [
@@ -670,7 +628,7 @@
       "chars": 39370,
       "ideas": 299,
       "role": "chapter",
-      "order": 31,
+      "order": 29,
       "prev": "canterburske_povidky_032.html",
       "next": "canterburske_povidky_034.html",
       "toc": [
@@ -690,7 +648,7 @@
       "chars": 3331,
       "ideas": 43,
       "role": "chapter",
-      "order": 32,
+      "order": 30,
       "prev": "canterburske_povidky_033.html",
       "next": "about.html",
       "toc": [
@@ -726,14 +684,14 @@
   ],
   "totals": {
     "all": {
-      "words": 96504,
-      "chars": 533837,
-      "ideas": 13254
+      "words": 96496,
+      "chars": 533778,
+      "ideas": 13250
     },
     "chapters": {
-      "words": 96373,
-      "chars": 532911,
-      "ideas": 13237
+      "words": 96365,
+      "chars": 532852,
+      "ideas": 13233
     }
   }
 }
